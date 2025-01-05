@@ -11,12 +11,12 @@
 
 |                           Badge                            |     Name     | How to get |
 | :--------------------------------------------------------: | :----------: | :--------: |
-|  ![Epic Quest](/Media/Badges/Buzzy-Books/buzzy-books.png)  |  Epic Quest  |   (???)    |
-| ![Buzzy Books](/Media/Badges/Buzzy-Books/buzzy-books.png)  | Buzzy Books  |   (???)    |
-| ![Era Explorer](/Media/Badges/Buzzy-Books/buzzy-books.png) | Era Explorer |   (???)    |
-|       ![Mystery](/Media/Badges/Mystery/mystery.png)        |   Mystery    |   (???)    |
-|       ![Mystery](/Media/Badges/Mystery/mystery.png)        |   Mystery    |   (???)    |
-|       ![Mystery](/Media/Badges/Mystery/mystery.png)        |   Mystery    |   (???)    |
+<img src="/Media/Badges/Buzzy-Books/buzzy-books.png" alt="Epic Quest" width="200"/>  |  Epic Quest  |   (???)    |
+<img src="/Media/Badges/Buzzy-Books/buzzy-books.png" alt="Buzzy Books" width="200"/>  | Buzzy Books  |   (???)    |
+<img src="/Media/Badges/Buzzy-Books/buzzy-books.png" alt="Era Explorer" width="200"/> | Era Explorer |   (???)    |
+<img src="/Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |   (???)    |
+<img src="/Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |   (???)    |
+<img src="/Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |   (???)    |
 
 <br>
 
