@@ -11,9 +11,9 @@
 
 |                                        Badge                                         |     Name     | How to get |
 | :----------------------------------------------------------------------------------: | :----------: | :--------: |
-|  <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Epic Quest" width="200"/>  |  Epic Quest  |   (???)    |
-| <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Buzzy Books" width="200"/>  | Buzzy Books  |   (???)    |
-| <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Era Explorer" width="200"/> | Era Explorer |   (???)    |
+|  <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Epic Quest" width="200"/>  |  Epic Quest  |   Collect this achievement when you read one of the most loved fantasy titles by readers.    |
+| <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Buzzy Books" width="200"/>  | Buzzy Books  |   Collect this achievement when you complete one of these reader favorites  |
+| <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Era Explorer" width="200"/> | Era Explorer |   Collect this achievement when you read one of the most popular historical fiction novels, according to readers.    |
 |       <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |   (???)    |
 |       <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |   (???)    |
 |       <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |   (???)    |
