@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2><a href="{{ site.github.repository_url }}">View FULL list on GitHub</a></h2>
+<h3><a href="{{ site.github.repository_url }}">View FULL list on GitHub</a></h3>
 
 <br>
 <br>
