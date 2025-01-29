@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://benrogerswpg.github.io/Goodreads-Achievements/sitemap.xml
