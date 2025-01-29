@@ -18,17 +18,17 @@
   <th>How to get</th>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Epic Quest" title="Epic Quest" width="200"/></td>
+  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.webp" alt="Epic Quest" title="Epic Quest" width="200"/></td>
   <td>Epic Quest</td>
   <td>Collect this achievement when you read one of the most loved fantasy titles by readers.</td>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Buzzy Books" title="Buzzy Books" width="200"/></td>
+  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.webp" alt="Buzzy Books" title="Buzzy Books" width="200"/></td>
   <td>Buzzy Books</td>
   <td>Collect this achievement when you complete one of these reader favorites</td>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Era Explorer" title="Era Explorer" width="200"/></td>
+  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.webp" alt="Era Explorer" title="Era Explorer" width="200"/></td>
   <td>Era Explorer</td>
   <td>Collect this achievement when you read one of the most popular historical fiction novels, according to readers.</td>
 </tr>
@@ -53,12 +53,12 @@
   <th>How to get</th>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/January/january.png" alt="January Reader" title="January Reader" width="200"/></td>
+  <td><img src="Media/Badges/January/january.webp" alt="January Reader" title="January Reader" width="200"/></td>
   <td>January Reader</td>
   <td>Read at least one book in the month of January</td>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="February Reader" title="February Reader" width="200"/></td>
+  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.webp" alt="February Reader" title="February Reader" width="200"/></td>
   <td>February Reader</td>
   <td>Read at least one book in the month of February</td>
 </tr>
@@ -83,7 +83,7 @@
   <th>How to get</th>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/Sapphire-Reader/sapphire-reader.png" alt="Sapphire Reader" title="Sapphire Reader" width="200"/></td>
+  <td><img src="Media/Badges/Sapphire-Reader/sapphire-reader.webp" alt="Sapphire Reader" title="Sapphire Reader" width="200"/></td>
   <td>Sapphire Reader</td>
   <td>You're a gem! You collected this achievement by completing a book during this challenge. How many more achievements can you collect?</td>
 </tr>
