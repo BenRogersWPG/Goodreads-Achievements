@@ -1,5 +1,10 @@
 <div align="center">
 
+<p>Goodreads reading achievements are a fun and rewarding way to celebrate your reading journey. Each badge represents a unique milestone, from reading a specific number of books to completing themed challenges, and they’re only available for a limited time.
+</p><p>
+This guide will help you get your Goodreads achievements, with overview of all available badges and how to unlock them. 
+</p>
+
 <h3><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3>
 
 <br>
