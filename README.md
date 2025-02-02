@@ -18,7 +18,7 @@ This guide is designed to help you navigate the world of Goodreads achievements,
 |  <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Epic Quest" width="200"/>  |  Epic Quest  |             Collect this achievement when you read one of the most loved fantasy titles by readers.             |
 | <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Buzzy Books" width="200"/>  | Buzzy Books  |                    Collect this achievement when you complete one of these reader favorites                     |
 | <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Era Explorer" width="200"/> | Era Explorer | Collect this achievement when you read one of the most popular historical fiction novels, according to readers. |
-|       <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |                                                      (???)                                                      |
+|       <img src="Media/Badges/Buzzy-Books/buzzy-books.png" alt="Essential Reader" width="200"/>        |   Essential Reader    |    Collect this achievement when you read one of these essential books from black authors.  |
 |       <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |                                                      (???)                                                      |
 |       <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>        |   Mystery    |                                                      (???)                                                      |
 
