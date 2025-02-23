@@ -1,1 +1,13 @@
 theme: jekyll-theme-slate
+author:
+  name: Ben Rogers
+  url: https://github.com/BenRogersWPG
+title: Goodreads Achievements
+description: 🔥 A Complete List of Goodreads Achievements 🔥
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /Media/Misc/Social_Preview/github-achievements-social-preview.jpg
+      height: 489
+      width: 995
