@@ -23,6 +23,11 @@ This guide will help you get your Goodreads achievements, with overview of all a
   <th>How to get</th>
 </tr>
 <tr align="center" valign="middle">
+  <td><img src="Media/Badges/Essential-Reader/essential-reader.webp" alt="Essential Reader" title="Essential Reader" width="200"/></td>
+  <td>Essential Reader</td>
+  <td>Collect this achievement when you read one of these essential books from black authors.</td>
+</tr>
+<tr align="center" valign="middle">
   <td><img src="Media/Badges/Epic-Quest/epic-quest.webp" alt="Epic Quest" title="Epic Quest" width="200"/></td>
   <td>Epic Quest</td>
   <td>Collect this achievement when you read one of the most loved fantasy titles by readers.</td>
