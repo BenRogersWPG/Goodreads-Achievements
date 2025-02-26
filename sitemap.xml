@@ -7,16 +7,19 @@
 
   <url>
     <loc>https://benrogerswpg.github.io/Goodreads-Achievements/</loc>
-    <lastmod>2025-02-15T03:07:46+00:00</lastmod>
+    <lastmod>2025-02-26T02:16:41+00:00</lastmod>
     <priority>1.00</priority>
     <image:image>
       <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Buzzy-Books/buzzy-books.webp</image:loc>
     </image:image>
-        <image:image>
+    <image:image>
       <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Epic-Quest/epic-quest.webp</image:loc>
     </image:image>
-        <image:image>
-      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Empty/empty.webp</image:loc>
+    <image:image>
+      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Essential-Reader/essential-reader.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Era-Explorer/era-explorer.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/January/january.webp</image:loc>
