@@ -9,5 +9,5 @@ defaults:
       path: ""
     values:
       image: /Media/Misc/Social_Preview/github-achievements-social-preview.jpg
-      height: 489
-      width: 995
+      height: 1024
+      width: 1792
