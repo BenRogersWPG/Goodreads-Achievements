@@ -63,9 +63,9 @@ This guide will help you get your Goodreads achievements, with overview of all a
   <th>How to get</th>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/January/january.webp" alt="January Reader" title="January Reader" width="200"/></td>
+  <td><img src="Media/Badges/March/march.webp" alt="March Reader" title="March Reader" width="200"/></td>
   <td>January Reader</td>
-  <td>Read at least one book in the month of January</td>
+  <td>Read at least one book in the month of March</td>
 </tr>
 <tr align="center" valign="center">
   <td><img src="Media/Badges/February/february.webp" alt="February Reader" title="February Reader" width="200"/></td>
