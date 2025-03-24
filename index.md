@@ -72,11 +72,6 @@ This guide will help you get your Goodreads achievements, with overview of all a
   <td>March Reader</td>
   <td>Read at least one book in the month of March</td>
 </tr>
-<tr align="center" valign="center">
-  <td><img src="Media/Badges/February/february.webp" alt="February Reader" title="February Reader" width="200"/></td>
-  <td>February Reader</td>
-  <td>Read at least one book in the month of February</td>
-</tr>
 <tr align="center" height="50px" valign="center">
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
