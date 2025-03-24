@@ -20,7 +20,7 @@ This guide is designed to help you navigate the world of Goodreads achievements,
 |       <img src="Media/Badges/Era-Explorer/era-explorer.png" alt="Era Explorer" width="200"/>       |   Era Explorer   | Collect this achievement when you read one of the most popular historical fiction novels, according to readers. |
 | <img src="Media/Badges/Essential-Reader/essential-reader.png" alt="Essential Reader" width="200"/> | Essential Reader |             Collect this achievement when you read one of these essential books from black authors.             |
 |           <img src="Media/Badges/Her-Story/her-story.png" alt="Her Story" width="200"/>            |    Her Story     |           Collect this achievement when you read one of these fascinating titles about and by women.            |
-|            <img src="Media/Badges/Empty/empty.png" alt="Sweet and Spicy" width="200"/>             | Sweet and Spicy  |                  Collect this achievement when you read one of these sweet or spicy romances.                   |
+|            <img src="Media/Badges/Sweet-and-Spicy/sweet-and-spicy.png" alt="Sweet and Spicy" width="200"/>             | Sweet and Spicy  |                  Collect this achievement when you read one of these sweet or spicy romances.                   |
 
 
 <br>
