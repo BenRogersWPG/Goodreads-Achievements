@@ -5,10 +5,6 @@
 This guide will help you get your Goodreads achievements, with overview of all available badges and how to unlock them.
 </p>
 
-<h3><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3>
-
-<br>
-<br>
 <br>
 
 <h2>📃 2025 Achievement List 📃</h2>
