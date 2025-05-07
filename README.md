@@ -11,6 +11,24 @@ This guide will help you get your Goodreads achievements, with an overview of al
 # 📃 2025 Achievement List 📃
 <br>
 
+
+## Seasonal Challenge (7)
+
+Limited-time achievements to inspire you toward your annual goal
+
+
+|                                               Badge                                                |       Name       |                                                       How to get                                                       |
+| :------------------------------------------------------------------------------------------------: | :--------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|        <img src="Media/Badges/Page-Turner/page-turner.png" alt="Page-Turner" width="200"/>         |   Page-Turner    |                         Collect this achievement when you finish 2 books during the challenge.                         |              |                                         |
+|       <img src="Media/Badges/Speed-Reader/speed-reader.png" alt="Speed Reader" width="200"/>       |   Speed Reader   |                         Collect this achievement when you finish 3 books during the challenge.                         |
+|           <img src="Media/Badges/Book-Boss/book-boss.png" alt="Book Boss" width="200"/>            |    Book Boss     |                         Collect this achievement when you finish 4 books during the challenge.                         |
+| <img src="Media/Badges/Centennial-Picks/centennial-picks.png" alt="Centennial Picks" width="200"/> | Centennial Picks | Collect this achievement when you finish one of these popular books from the past 100 years between May 1 and June 30. |
+|    <img src="Media/Badges/Heritage-Reads/heritage-reads.png" alt="Heritage Reads" width="200"/>    |  Heritage Reads  |    Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.    |
+|              <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>               |     Mystery      |                                         Hint: Planes, trains, and automobiles                                          |
+|              <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>               |     Mystery      |                                             Hint: Celebrating Pride Month                                              |
+
+
+
 ## Community Favorites Challenge (6)
 
 |                                               Badge                                                |       Name       |                                                   How to get                                                    |
@@ -20,7 +38,7 @@ This guide will help you get your Goodreads achievements, with an overview of al
 |       <img src="Media/Badges/Era-Explorer/era-explorer.png" alt="Era Explorer" width="200"/>       |   Era Explorer   | Collect this achievement when you read one of the most popular historical fiction novels, according to readers. |
 | <img src="Media/Badges/Essential-Reader/essential-reader.png" alt="Essential Reader" width="200"/> | Essential Reader |             Collect this achievement when you read one of these essential books from black authors.             |
 |           <img src="Media/Badges/Her-Story/her-story.png" alt="Her Story" width="200"/>            |    Her Story     |           Collect this achievement when you read one of these fascinating titles about and by women.            |
-|            <img src="Media/Badges/Sweet-and-Spicy/sweet-and-spicy.png" alt="Sweet and Spicy" width="200"/>             | Sweet and Spicy  |                  Collect this achievement when you read one of these sweet or spicy romances.                   |
+|  <img src="Media/Badges/Sweet-and-Spicy/sweet-and-spicy.png" alt="Sweet and Spicy" width="200"/>   | Sweet and Spicy  |                  Collect this achievement when you read one of these sweet or spicy romances.                   |
 
 
 <br>
@@ -33,7 +51,7 @@ This guide will help you get your Goodreads achievements, with an overview of al
 | <img src="Media/Badges/February/February.png" alt="February Reader" width="200"/> | February Reader  |                                 Read at least one book in the month of February                                 |
 |     <img src="Media/Badges/March/march.png" alt="March Reader" width="200"/>      |   March Reader   |                                  Read at least one book in the month of March                                   |
 |     <img src="Media/Badges/April/april.png" alt="April Reader" width="200"/>      |   April Reader   |                                  Read at least one book in the month of April                                   |
-|      <img src="Media/Badges/Empty/empty.png" alt="May Reader" width="200"/>       |    May Reader    |                                   Read at least one book in the month of May                                    |
+|      <img src="Media/Badges/May/may.png" alt="May Reader" width="200"/>       |    May Reader    |                                   Read at least one book in the month of May                                    |
 |      <img src="Media/Badges/Empty/empty.png" alt="June Reader" width="200"/>      |   June Reader    |                                   Read at least one book in the month of June                                   |
 |      <img src="Media/Badges/Empty/empty.png" alt="July Reader" width="200"/>      |   July Reader    |                                   Read at least one book in the month of July                                   |
 |     <img src="Media/Badges/Empty/empty.png" alt="August Reader" width="200"/>     |  August Reader   |                                  Read at least one book in the month of August                                  |
