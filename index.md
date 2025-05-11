@@ -37,7 +37,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
 <tr align="center" valign="middle">
-  <td colspan="3"><h3><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
 
@@ -69,7 +69,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
 <tr align="center" valign="middle">
-  <td colspan="3"><h3><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
 
@@ -94,7 +94,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
 <tr align="center" valign="center">
-  <td colspan="3"><h3><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
 
@@ -119,7 +119,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
 <tr align="center" valign="center">
-  <td colspan="3"><h3><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
 
