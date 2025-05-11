@@ -1,4 +1,3 @@
-<div align="center">
 <h1>Goodreads Achievements Guide</h1>
 <p>The full list of Goodreads achievements! Learn how to unlock every badge, complete themed reading challenges, and earn monthly goals throughout 2025.</p>
 <h2>What are Goodreads Achievements?</h2>
@@ -124,5 +123,3 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
-
-</div>
