@@ -17,7 +17,7 @@ Limited-time achievements to inspire you toward your annual goal
 
 <br>
 
-<div style="overflow-x: auto;">
+<div class="table-wrapper" style="overflow-x: auto;">
 <table>
 <tr align="center" valign="middle">
   <th>Badge</th>
@@ -47,7 +47,7 @@ Limited-time achievements to inspire you toward your annual goal
 
 <h3>Community Favorites Challenge (6)</h3>
 
-<div style="overflow-x: auto;">
+<div class="table-wrapper" style="overflow-x: auto;">
 <table>
 <tr align="center" valign="middle">
   <th>Badge</th>
@@ -84,7 +84,7 @@ Limited-time achievements to inspire you toward your annual goal
   <h3>Monthly Reading Challenge (15)</h3>
 <br>
 
-<div style="overflow-x: auto;">
+<div class="table-wrapper" style="overflow-x: auto;">
 <table>
 <tr align="center" valign="center">
   <th>Badge</th>
@@ -111,7 +111,7 @@ Limited-time achievements to inspire you toward your annual goal
 <br>
 <h3>Readers' Picks Challenge (5)</h3>
 
-<div style="overflow-x: auto;">
+<div class="table-wrapper" style="overflow-x: auto;">
 <table>
 <tr align="center" valign="center" valign="center">
   <th>Badge</th>
