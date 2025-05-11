@@ -17,6 +17,7 @@ Limited-time achievements to inspire you toward your annual goal
 
 <br>
 
+<div style="overflow-x: auto;">
 <table>
 <tr align="center" valign="middle">
   <th>Badge</th>
@@ -41,10 +42,12 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
+</div>
 
 
 <h3>Community Favorites Challenge (6)</h3>
 
+<div style="overflow-x: auto;">
 <table>
 <tr align="center" valign="middle">
   <th>Badge</th>
@@ -73,6 +76,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
+</div>
 
 
 <br>
@@ -80,6 +84,7 @@ Limited-time achievements to inspire you toward your annual goal
   <h3>Monthly Reading Challenge (15)</h3>
 <br>
 
+<div style="overflow-x: auto;">
 <table>
 <tr align="center" valign="center">
   <th>Badge</th>
@@ -98,6 +103,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
+</div>
 
 <br>
 
@@ -105,6 +111,7 @@ Limited-time achievements to inspire you toward your annual goal
 <br>
 <h3>Readers' Picks Challenge (5)</h3>
 
+<div style="overflow-x: auto;">
 <table>
 <tr align="center" valign="center" valign="center">
   <th>Badge</th>
@@ -123,3 +130,4 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
+</div>
