@@ -163,36 +163,26 @@
     </header>
 
     <!-- MAIN CONTENT -->
-    <main id="main-content">
+    <main id="main-content" class="goodreads-achievements">
         <p id="breadcrumbs"><span><a href="https://benrogerswpg.github.io/" title="Ben Rogers Portfolio" >Ben Rogers Portfolio</a></span> » <span class="breadcrumb_last" aria-current="page">Goodreads Achievements Guide</span></p>
 
         {{ content }}
 
     </main>
+    <script>
+      function lightDark() {
+          const body = document.body;
+          const currentTheme = body.getAttribute("theme");
+          const newTheme = currentTheme === "dark" ? "light" : "dark";
+          body.setAttribute("theme", newTheme);
+          localStorage.setItem("theme", newTheme);
+      }
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="/about/" title="About BenRogersWPG | GitHub Profile | Code Portfolio">Ben Rogers</a></p>
-        {% endif %}
-        <p>Published with <a href="https://pages.github.com" title="GitHub Pages">GitHub Pages</a></p>
-      </footer>
-    </div>
-        <script>
-        function lightDark() {
-            const body = document.body;
-            const currentTheme = body.getAttribute("theme");
-            const newTheme = currentTheme === "dark" ? "light" : "dark";
-            body.setAttribute("theme", newTheme);
-            localStorage.setItem("theme", newTheme);
-        }
-
-        // Load saved theme on page load
-        document.addEventListener("DOMContentLoaded", function () {
-            const savedTheme = localStorage.getItem("theme") || "light";
-            document.body.setAttribute("theme", savedTheme);
-        });
-    </script>
+      // Load saved theme on page load
+      document.addEventListener("DOMContentLoaded", function () {
+          const savedTheme = localStorage.getItem("theme") || "light";
+          document.body.setAttribute("theme", savedTheme);
+      });
+  </script>
   </body>
 </html>
