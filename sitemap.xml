@@ -6,14 +6,16 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://benrogerswpg.github.io/Goodreads-Achievements/</loc>
-    <lastmod>2025-03-24T04:05:00+00:00</lastmod>
+    <loc>https://benrogerswpg.github.io/</loc>
+    <lastmod>2025-05-11T17:36:19+00:00</lastmod>
     <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://benrogerswpg.github.io/Goodreads-Achievements/</loc>
+    <lastmod>2025-05-11T17:36:26+00:00</lastmod>
+    <priority>0.80</priority>
     <image:image>
-      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Buzzy-Books/buzzy-books.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Her-Story/her-story.webp</image:loc>
+      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Speed-Reader/speed-reader.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Epic-Quest/epic-quest.webp</image:loc>
@@ -25,10 +27,22 @@
       <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Era-Explorer/era-explorer.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/March/march.webp</image:loc>
+      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/May/may.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Sapphire-Reader/sapphire-reader.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Page-Turner/page-turner.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://benrogerswpg.github.io/about/</loc>
+    <lastmod>2025-05-11T17:36:19+00:00</lastmod>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>
+        https://benrogerswpg.github.io/Media/Profile-Photo/Ben-Rogers-About-Profile.webp</image:loc>
     </image:image>
   </url>
 </urlset>
