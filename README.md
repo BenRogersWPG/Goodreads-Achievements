@@ -13,6 +13,7 @@ This guide will help you get your Goodreads achievements, with an overview of al
 
 
 ## Seasonal Challenge (7)
+### May 1 - June 30, 2025
 
 Limited-time achievements to inspire you toward your annual goal
 
@@ -30,6 +31,7 @@ Limited-time achievements to inspire you toward your annual goal
 
 
 ## Community Favorites Challenge (6)
+### January - April 2025
 
 |                                               Badge                                                |       Name       |                                                   How to get                                                    |
 | :------------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------------------------------------------------------------: |
@@ -43,7 +45,8 @@ Limited-time achievements to inspire you toward your annual goal
 
 <br>
 
-## Monthly Reading Challenge (15)
+## Monthly 2025 Reading Challenge (15)
+### January 1 - December 31, 2025
 
 |                                       Badge                                       |       Name       |                                                   How to get                                                    |
 | :-------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------------------------------------------------------------: |
@@ -68,7 +71,7 @@ Limited-time achievements to inspire you toward your annual goal
 # Previous Challenges
 
 ## Readers' Picks Challenge (5)
-*September - December 2024*
+### September - December 2024
 
 
 |                                              Badge                                              |      Name       |                                                                 How to get                                                                 |
