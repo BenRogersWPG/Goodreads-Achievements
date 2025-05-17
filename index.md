@@ -39,7 +39,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
 <tr align="center" valign="middle">
-  <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements#seasonal-challenge-7" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
 </div>
@@ -73,7 +73,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
 <tr align="center" valign="middle">
-  <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements#community-favorites-challenge-6" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
 </div>
@@ -101,7 +101,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
 <tr align="center" valign="center">
-  <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements#monthly-2025-reading-challenge-15" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
 </div>
@@ -127,7 +127,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td colspan="3"><br>⋮<br><br></td>
 </tr>
 <tr align="center" valign="center">
-  <td colspan="3"><h3 class="cta"><a href="{{ site.github.repository_url }}" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements#readers-picks-challenge-5" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
 </div>
