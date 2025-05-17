@@ -10,9 +10,9 @@ This guide will help you get your Goodreads achievements, with an overview of al
 <br>
 
 <h2>📃 2025 Achievement List 📃</h2>
-<br>
-
 <h3>Seasonal Challenge (7)</h3>
+<strong>May 1 - June 30, 2025</strong>
+
 Limited-time achievements to inspire you toward your annual goal
 
 <br>
@@ -46,7 +46,7 @@ Limited-time achievements to inspire you toward your annual goal
 
 
 <h3>Community Favorites Challenge (6)</h3>
-
+<strong>January - April 2025</strong>
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
 <tr align="center" valign="middle">
@@ -82,6 +82,7 @@ Limited-time achievements to inspire you toward your annual goal
 <br>
 
   <h3>Monthly Reading Challenge (15)</h3>
+  <strong>January 1 - December 31, 2025</strong>
 <br>
 
 <div class="table-wrapper" style="overflow-x: auto;">
@@ -108,9 +109,8 @@ Limited-time achievements to inspire you toward your annual goal
 <br>
 
 <h2>Previous Challenges</h2>
-<br>
 <h3>Readers' Picks Challenge (5)</h3>
-
+<strong>September - December 2024</strong>
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
 <tr align="center" valign="center" valign="center">
