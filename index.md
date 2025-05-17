@@ -131,3 +131,4 @@ Limited-time achievements to inspire you toward your annual goal
 </tr>
 </table>
 </div>
+<p>Make your <i>"good reads"</i> even better with these rewarding digital trophies!</p>
