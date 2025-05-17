@@ -25,15 +25,15 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="Badge of a person sitting on a pile of books reading a book from inside a vehicle. There is a sun outside in the window, with green grass in the background." title="Page-Turner" width="200"/></td>
-  <td>Page-Turner</td>
-  <td>Collect this achievement when you finish 2 books during the challenge.</td>
-</tr>
-<tr align="center" valign="middle">
   <td><img src="Media/Badges/Speed-Reader/speed-reader.webp" alt="An illustration of a person holding an open yellow-colored book. The reader is wearing a blue outfit with pink dots, and is wearing pink headphones" title="Speed Reader" width="200"/></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish 3 books during the challenge.
 </td>
+</tr>
+<tr align="center" valign="middle">
+  <td><img src="Media/Badges/Heritage-Reads/heritage-reads.webp" alt="Badge with two books being read by two different people. All it shows are the people's hands with the books open. The image has an orange background consisting of monstera plants, spirals, and hybiscus flowers in the background." title="Heritage Reads" width="200"/></td>
+  <td>Heritage Reads</td>
+  <td>Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.</td>
 </tr>
 <tr align="center" height="50px" valign="middle">
   <td colspan="3"><br>⋮<br><br></td>
