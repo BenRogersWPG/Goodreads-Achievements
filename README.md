@@ -9,9 +9,6 @@ This guide will help you get your Goodreads achievements, with an overview of al
 <br>
 
 # 📃 2025 Achievement List 📃
-<br>
-
-
 ## Seasonal Challenge (7)
 ### May 1 - June 30, 2025
 
@@ -29,7 +26,7 @@ Limited-time achievements to inspire you toward your annual goal
 |              <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>               |     Mystery      |                                             Hint: Celebrating Pride Month                                              |
 
 
-
+<br>
 ## Community Favorites Challenge (6)
 ### January - April 2025
 
