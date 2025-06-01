@@ -93,9 +93,9 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/May/may.webp" alt="A bookmark illustration with a person's hands reaching up for a floating book. The arms are adorned with a yellow shirt, pearl bracelet, and a pinky ring. The floating book is blue, and there are some star shaped patterns in the background of the image which is mostly orange" title="May Reader" width="200"/></td>
-  <td>May Reader</td>
-  <td>Read at least one book in the month of May</td>
+  <td><img src="Media/Badges/June/june.webp" alt="A bookmark illustration with a with a dark blue book hovering above a green plant with some orange berries on it. The bookmark has a bright blue tassel on the top of it." title="June Reader" width="200"/></td>
+  <td>June Reader</td>
+  <td>Read at least one book in the month of June</td>
 </tr>
 <tr align="center" height="50px" valign="center">
   <td colspan="3"><br>⋮<br><br></td>
