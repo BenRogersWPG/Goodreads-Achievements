@@ -23,7 +23,7 @@ Limited-time achievements to inspire you toward your annual goal
 | <img src="Media/Badges/Centennial-Picks/centennial-picks.png" alt="Centennial Picks" width="200"/> | Centennial Picks | Collect this achievement when you finish one of these popular books from the past 100 years between May 1 and June 30. |
 |    <img src="Media/Badges/Heritage-Reads/heritage-reads.png" alt="Heritage Reads" width="200"/>    |  Heritage Reads  |    Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.    |
 |              <img src="Media/Badges/Armchair-Explorer/armchair-explorer.png" alt="Armchair Explorer" width="200"/>               |     Armchair Explorer      |                                         Collect this achievement when you bask in the summertime sun by finishing one of these books between May 15 and June 30.                                          |
-|              <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>               |     Mystery      |                                             Hint: Celebrating Pride Month                                              |
+|              <img src="Media/Badges/Empty/empty.png" alt="Rainbow Reads" width="200"/>               |     Rainbow Reads      |                                             Collect this achievement when you finish one of these LGBTQ+ books between June 1 and June 30.                                              |
 
 
 <br>
