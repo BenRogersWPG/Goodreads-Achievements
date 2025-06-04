@@ -25,9 +25,27 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr align="center" valign="middle">
+  <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="" title="Page Turner" width="200"/></td>
+  <td>Page Turner</td>
+  <td>Collect this achievement when you finish 2 books during the challenge.
+</td>
+</tr>
+<tr align="center" valign="middle">
   <td><img src="Media/Badges/Speed-Reader/speed-reader.webp" alt="An illustration of a person holding an open yellow-colored book. The reader is wearing a blue outfit with pink dots, and is wearing pink headphones" title="Speed Reader" width="200"/></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish 3 books during the challenge.
+</td>
+</tr>
+<tr align="center" valign="middle">
+  <td><img src="Media/Badges/Book-Boss/book-boss.webp" alt="" title="Book Boss" width="200"/></td>
+  <td>Book Boss</td>
+  <td>Collect this achievement when you finish 4 books during the challenge.
+</td>
+</tr>
+<tr align="center" valign="middle">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Centennial Picks" width="200"/></td>
+  <td>Centennial Picks</td>
+  <td>Collect this achievement when you finish one of these popular books from the past 100 years between May 1 and June 30.
 </td>
 </tr>
 <tr align="center" valign="middle">
@@ -35,11 +53,17 @@ Limited-time achievements to inspire you toward your annual goal
   <td>Heritage Reads</td>
   <td>Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.</td>
 </tr>
-<tr align="center" height="50px" valign="middle">
-  <td colspan="3"><br>⋮<br><br></td>
+<tr align="center" valign="middle">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Armchair Explorer" width="200"/></td>
+  <td>Armchair Explorer</td>
+  <td>Collect this achievement when you bask in the summertime sun by finishing one of these books between May 15 and June 30.
+</td>
 </tr>
 <tr align="center" valign="middle">
-  <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Rainbow Reads" width="200"/></td>
+  <td>Rainbow Reads</td>
+  <td>Collect this achievement when you finish one of these LGBTQ+ books between June 1 and June 30.
+</td>
 </tr>
 </table>
 </div>
@@ -55,6 +79,16 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr align="center" valign="middle">
+  <td><img src="Media/Badges/Epic-Quest/epic-quest.webp" alt="A person reading a book outside on a blanket, with red and white flowers in the foreground, and a river in the background with yellow and orange trees" title="Epic Quest" width="200"/></td>
+  <td>Epic Quest</td>
+  <td>Collect this achievement when you read one of the most loved fantasy titles by readers.</td>
+</tr>
+<tr align="center" valign="middle">
+  <td><img src="Media/Badges/Buzzy-Books/buzzy-books.webp" alt="" title="Buzzy Books" width="200"/></td>
+  <td>Buzzy Books</td>
+  <td>Collect this achievement when you complete one of these reader favorites</td>
+</tr>
+<tr align="center" valign="middle">
   <td><img src="Media/Badges/Era-Explorer/era-explorer.webp" alt="A person wearing red sunglasses is sitting on a park bench reading a book while holding a mug of coffee. There are flowers growing around their feet, and in the background is a body of water and yellow/orange trees" title="Era Explorer" width="200"/></td>
   <td>Era Explorer</td>
   <td>Collect this achievement when you read one of the most popular historical fiction novels, according to readers.</td>
@@ -65,15 +99,14 @@ Limited-time achievements to inspire you toward your annual goal
   <td>Collect this achievement when you read one of these essential books from black authors.</td>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Epic-Quest/epic-quest.webp" alt="A person reading a book outside on a blanket, with red and white flowers in the foreground, and a river in the background with yellow and orange trees" title="Epic Quest" width="200"/></td>
-  <td>Epic Quest</td>
-  <td>Collect this achievement when you read one of the most loved fantasy titles by readers.</td>
-</tr>
-<tr align="center" height="50px" valign="middle">
-  <td colspan="3"><br>⋮<br><br></td>
+  <td><img src="Media/Badges/Her-Story/her-story.webp" alt="" title="Her Story" width="200"/></td>
+  <td>Her Story</td>
+  <td>Collect this achievement when you read one of these fascinating titles about and by women.</td>
 </tr>
 <tr align="center" valign="middle">
-  <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements#-goodreads-achievements-" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Sweet and Spicy" width="200"/></td>
+  <td>Sweet and Spicy</td>
+  <td>Collect this achievement when you read one of these sweet or spicy romances.</td>
 </tr>
 </table>
 </div>
@@ -93,15 +126,79 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr align="center" valign="center">
+  <td><img src="Media/Badges/January/January.webp" alt="" title="January Reader" width="200"/></td>
+  <td>January Reader</td>
+  <td>Read at least one book in the month of January</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/February/february.webp" alt="" title="February Reader" width="200"/></td>
+  <td>February Reader</td>
+  <td>Read at least one book in the month of February</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/March/march.webp" alt="" title="March Reader" width="200"/></td>
+  <td>March Reader</td>
+  <td>Read at least one book in the month of March</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/April/april.webp" alt="" title="April Reader" width="200"/></td>
+  <td>April Reader</td>
+  <td>Read at least one book in the month of April</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/May/may.webp" alt="" title="May Reader" width="200"/></td>
+  <td>May Reader</td>
+  <td>Read at least one book in the month of May</td>
+</tr>
+<tr align="center" valign="center">
   <td><img src="Media/Badges/June/june.webp" alt="A bookmark illustration with a with a dark blue book hovering above a green plant with some orange berries on it. The bookmark has a bright blue tassel on the top of it." title="June Reader" width="200"/></td>
   <td>June Reader</td>
   <td>Read at least one book in the month of June</td>
 </tr>
-<tr align="center" height="50px" valign="center">
-  <td colspan="3"><br>⋮<br><br></td>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="July Reader" width="200"/></td>
+  <td>July Reader</td>
+  <td>Read at least one book in the month of July</td>
 </tr>
 <tr align="center" valign="center">
-  <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements#-goodreads-achievements-" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="August Reader" width="200"/></td>
+  <td>August Reader</td>
+  <td>Read at least one book in the month of August</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="September Reader" width="200"/></td>
+  <td>September Reader</td>
+  <td>Read at least one book in the month of September</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="October Reader" width="200"/></td>
+  <td>October Reader</td>
+  <td>Read at least one book in the month of October</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="November Reader" width="200"/></td>
+  <td>November Reader</td>
+  <td>Read at least one book in the month of November</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="December Reader" width="200"/></td>
+  <td>December Reader</td>
+  <td>Read at least one book in the month of December</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="December Reader" width="200"/></td>
+  <td>Grand Slam</td>
+  <td>Complete the set! Collect this achievement by finishing a book every month of the year.</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="December Reader" width="200"/></td>
+  <td>Nailed It</td>
+  <td>Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 12/17/2025.</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="December Reader" width="200"/></td>
+  <td>Stepped Up</td>
+  <td>One up your best self by completing more books than last year. Eligible to collect starting 12/23/2025.</td>
 </tr>
 </table>
 </div>
@@ -123,8 +220,27 @@ Limited-time achievements to inspire you toward your annual goal
   <td>Sapphire Reader</td>
   <td>You're a gem! You collected this achievement by completing a book during this challenge. How many more achievements can you collect?</td>
 </tr>
-<tr align="center" height="50px" valign="center">
-  <td colspan="3"><br>⋮<br><br></td>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Emerald Reader" width="200"/></td>
+  <td>Emerald Reader</td>
+  <td>A precious feat! You collected this achievement by reading 3 books during this challenge.
+</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Diamond Reader" width="200"/></td>
+  <td>Diamond Reader</td>
+  <td>Your brilliance shows! You collected this achievement by reading 5 books during the Readers' Picks challenge.</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Fall Vibes" width="200"/></td>
+  <td>Fall Vibes</td>
+  <td>Autumnally awesome! You collected this achievement by reading a book from the Fall Vibes list between October 16 and December 31.</td>
+</tr>
+<tr align="center" valign="center">
+  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Choice Awards" width="200"/></td>
+  <td>Choice Awards</td>
+  <td>You've got our vote! You collected this achievement by reading a 2024 Goodreads Choice Awards nominee between November 14 and December 31.
+</td>
 </tr>
 <tr align="center" valign="center">
   <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements#-goodreads-achievements-" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
