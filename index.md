@@ -126,7 +126,7 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/January/January.webp" alt="" title="January Reader" width="200"/></td>
+  <td><img src="Media/Badges/January/january.webp" alt="" title="January Reader" width="200"/></td>
   <td>January Reader</td>
   <td>Read at least one book in the month of January</td>
 </tr>
