@@ -221,23 +221,23 @@ Limited-time achievements to inspire you toward your annual goal
   <td>You're a gem! You collected this achievement by completing a book during this challenge. How many more achievements can you collect?</td>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Emerald Reader" width="200"/></td>
+  <td><img src="Media/Badges/Emerald-Reader/emerald-reader.webp" alt="" title="Emerald Reader" width="200"/></td>
   <td>Emerald Reader</td>
   <td>A precious feat! You collected this achievement by reading 3 books during this challenge.
 </td>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Diamond Reader" width="200"/></td>
+  <td><img src="Media/Badges/Diamond-Reader/diamond-reader.webp" alt="" title="Diamond Reader" width="200"/></td>
   <td>Diamond Reader</td>
   <td>Your brilliance shows! You collected this achievement by reading 5 books during the Readers' Picks challenge.</td>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Fall Vibes" width="200"/></td>
+  <td><img src="Media/Badges/Fall-Vibes/fall-vibes.webp" alt="" title="Fall Vibes" width="200"/></td>
   <td>Fall Vibes</td>
   <td>Autumnally awesome! You collected this achievement by reading a book from the Fall Vibes list between October 16 and December 31.</td>
 </tr>
 <tr align="center" valign="center">
-  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Choice Awards" width="200"/></td>
+  <td><img src="Media/Badges/Choice-Awards/choice-awards.webp" alt="" title="Choice Awards" width="200"/></td>
   <td>Choice Awards</td>
   <td>You've got our vote! You collected this achievement by reading a 2024 Goodreads Choice Awards nominee between November 14 and December 31.
 </td>
