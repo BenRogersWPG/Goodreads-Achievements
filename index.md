@@ -104,7 +104,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td>Collect this achievement when you read one of these fascinating titles about and by women.</td>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Sweet and Spicy" width="200"/></td>
+  <td><img src="Media/Badges/Sweet-and-Spicy/sweet-and-spicy.webp" alt="" title="Sweet and Spicy" width="200"/></td>
   <td>Sweet and Spicy</td>
   <td>Collect this achievement when you read one of these sweet or spicy romances.</td>
 </tr>
