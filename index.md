@@ -43,7 +43,7 @@ Limited-time achievements to inspire you toward your annual goal
 </td>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Centennial Picks" width="200"/></td>
+  <td><img src="Media/Badges/Centennial-Picks/centennial-picks.webp" alt="" title="Centennial Picks" width="200"/></td>
   <td>Centennial Picks</td>
   <td>Collect this achievement when you finish one of these popular books from the past 100 years between May 1 and June 30.
 </td>
@@ -54,7 +54,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td>Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.</td>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Empty/empty.webp" alt="" title="Armchair Explorer" width="200"/></td>
+  <td><img src="Media/Badges/Armchair-Explorer/armchair-explorer.webp" alt="" title="Armchair Explorer" width="200"/></td>
   <td>Armchair Explorer</td>
   <td>Collect this achievement when you bask in the summertime sun by finishing one of these books between May 15 and June 30.
 </td>
