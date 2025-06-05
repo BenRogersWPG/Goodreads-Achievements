@@ -25,7 +25,7 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="Page Turner achievement bookmark" title="Page Turner" width="200"/></td>
+  <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="Page Turner achievement bookmark" title="Page Turner" width="200" fetchpriority="high"/></td>
   <td>Page Turner</td>
   <td>Collect this achievement when you finish 2 books during the challenge.
 </td>
