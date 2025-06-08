@@ -60,7 +60,7 @@ Limited-time achievements to inspire you toward your annual goal
 </td>
 </tr>
 <tr align="center" valign="middle">
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Rainbow Reads Achievement badge (TBD)" title="Rainbow Reads" width="200" loading="lazy"/></td>
+  <td><img src="Media/Badges/Rainbow-Reads/rainbow-reads.webp" alt="Rainbow Reads Achievement badge" title="Rainbow Reads" width="200" loading="lazy"/></td>
   <td>Rainbow Reads</td>
   <td>Collect this achievement when you finish one of these LGBTQ+ books between June 1 and June 30.
 </td>
