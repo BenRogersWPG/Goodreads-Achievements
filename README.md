@@ -4,7 +4,7 @@
 
 Goodreads reading achievements are collectable badges you receive just by logging your reading progress. Each badge corresponds to different goals - from reading a specific number of books in a year, hitting or exceeding your annual reading goal, or completing themed challenges - and they’re only available for a limited time.
 
-This guide will help you get your Goodreads achievements, with an overview of all available badges and how to unlock them.
+This guide will help you get your Goodreads and Kindle achievements, with an overview of all available badges and how to unlock them.
 
 <br>
 
