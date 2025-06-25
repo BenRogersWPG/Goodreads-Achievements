@@ -19,47 +19,47 @@ Limited-time achievements to inspire you toward your annual goal
 
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
-<tr align="center" valign="middle">
+<tr>
   <th>Badge</th>
   <th>Name</th>
   <th>How to get</th>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="Page Turner achievement bookmark" title="Page Turner" width="200" fetchpriority="high"/></td>
   <td>Page Turner</td>
   <td>Collect this achievement when you finish 2 books during the challenge.
 </td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Speed-Reader/speed-reader.webp" alt="An illustration of a person holding an open yellow-colored book. The reader is wearing a blue outfit with pink dots, and is wearing pink headphones" title="Speed Reader" width="200"/></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish 3 books during the challenge.
 </td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Book-Boss/book-boss.webp" alt="Book Boss achievement bookmark" title="Book Boss" width="200"/></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish 4 books during the challenge.
 </td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Centennial-Picks/centennial-picks.webp" alt="Centennial Picks achievement badge" title="Centennial Picks" width="200" loading="lazy"/></td>
   <td>Centennial Picks</td>
   <td>Collect this achievement when you finish one of these popular books from the past 100 years between May 1 and June 30.
 </td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Heritage-Reads/heritage-reads.webp" alt="Badge with two books being read by two different people. All it shows are the people's hands with the books open. The image has an orange background consisting of monstera plants, spirals, and hybiscus flowers in the background." title="Heritage Reads" width="200" loading="lazy"/></td>
   <td>Heritage Reads</td>
   <td>Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.</td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Armchair-Explorer/armchair-explorer.webp" alt="Armchair Explorer Achievement badge" title="Armchair Explorer" width="200" loading="lazy"/></td>
   <td>Armchair Explorer</td>
   <td>Collect this achievement when you bask in the summertime sun by finishing one of these books between May 15 and June 30.
 </td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Rainbow-Reads/rainbow-reads.webp" alt="Rainbow Reads Achievement badge" title="Rainbow Reads" width="200" loading="lazy"/></td>
   <td>Rainbow Reads</td>
   <td>Collect this achievement when you finish one of these LGBTQ+ books between June 1 and June 30.
@@ -73,37 +73,37 @@ Limited-time achievements to inspire you toward your annual goal
 <strong>January - April 2025</strong>
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
-<tr align="center" valign="middle">
+<tr>
   <th>Badge</th>
   <th>Name</th>
   <th>How to get</th>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Epic-Quest/epic-quest.webp" alt="A person reading a book outside on a blanket, with red and white flowers in the foreground, and a river in the background with yellow and orange trees" title="Epic Quest" width="200" loading="lazy"/></td>
   <td>Epic Quest</td>
   <td>Collect this achievement when you read one of the most loved fantasy titles by readers.</td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Buzzy-Books/buzzy-books.webp" alt="A drawing of two people enjoying the outdoors by a body of water. One person is holing a cup of coffee and looking towards the camera with sunglasses, the other person is facing away from the camera and from over their shoulder we can see they are reading a book" title="Buzzy Books" width="200" loading="lazy"/></td>
   <td>Buzzy Books</td>
   <td>Collect this achievement when you complete one of these reader favorites</td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Era-Explorer/era-explorer.webp" alt="A person wearing red sunglasses is sitting on a park bench reading a book while holding a mug of coffee. There are flowers growing around their feet, and in the background is a body of water and yellow/orange trees" title="Era Explorer" width="200" loading="lazy"/></td>
   <td>Era Explorer</td>
   <td>Collect this achievement when you read one of the most popular historical fiction novels, according to readers.</td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Essential-Reader/essential-reader.webp" alt="An illustration of a person holding a closed book on the top of a large table also containing a hot cup of coffee and a stack of books, with plants in the background" title="Essential Reader" width="200" loading="lazy"/></td>
   <td>Essential Reader</td>
   <td>Collect this achievement when you read one of these essential books from black authors.</td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Her-Story/her-story.webp" alt="Badge of a person reading a book with a stack of books in the background and a small table in the foreground with a mug of coffee and a green apple on it" title="Her Story" width="200" loading="lazy"/></td>
   <td>Her Story</td>
   <td>Collect this achievement when you read one of these fascinating titles about and by women.</td>
 </tr>
-<tr align="center" valign="middle">
+<tr>
   <td><img src="Media/Badges/Sweet-and-Spicy/sweet-and-spicy.webp" alt="Sweet and Spicy Achievement badge" title="Sweet and Spicy" width="200" loading="lazy"/></td>
   <td>Sweet and Spicy</td>
   <td>Collect this achievement when you read one of these sweet or spicy romances.</td>
