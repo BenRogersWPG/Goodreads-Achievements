@@ -120,82 +120,82 @@ Limited-time achievements to inspire you toward your annual goal
 
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
-<tr align="center" valign="center">
+<tr>
   <th>Badge</th>
   <th>Name</th>
   <th>How to get</th>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/January/january.webp" alt="January Reader badge" title="January Reader" width="200" loading="lazy"/></td>
   <td>January Reader</td>
   <td>Read at least one book in the month of January</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/February/february.webp" alt="February Reader badge" title="February Reader" width="200" loading="lazy"/></td>
   <td>February Reader</td>
   <td>Read at least one book in the month of February</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/March/march.webp" alt="March Reader badge" title="March Reader" width="200" loading="lazy"/></td>
   <td>March Reader</td>
   <td>Read at least one book in the month of March</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/April/april.webp" alt="A bookmark illustration with a person's hands reaching up for a floating book. The arms are adorned with a yellow shirt, pearl bracelet, and a pinky ring. The floating book is blue, and there are some star shaped patterns in the background of the image which is mostly orange" title="April Reader" width="200" loading="lazy"/></td>
   <td>April Reader</td>
   <td>Read at least one book in the month of April</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/May/may.webp" alt="A bookmark illustration with a person's hands reaching up for a floating book. The arms are adorned with a yellow shirt, pearl bracelet, and a pinky ring. The floating book is blue, and there are some star shaped patterns in the background of the image which is mostly orange" title="May Reader" width="200" loading="lazy"/></td>
   <td>May Reader</td>
   <td>Read at least one book in the month of May</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/June/june.webp" alt="A bookmark illustration with a with a dark blue book hovering above a green plant with some orange berries on it. The bookmark has a bright blue tassel on the top of it." title="June Reader" width="200" loading="lazy"/></td>
   <td>June Reader</td>
   <td>Read at least one book in the month of June</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="July Reader Achievement badge" title="July Reader" width="200" loading="lazy"/></td>
   <td>July Reader</td>
   <td>Read at least one book in the month of July</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="August Reader Achievement badge" title="August Reader" width="200" loading="lazy"/></td>
   <td>August Reader</td>
   <td>Read at least one book in the month of August</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="September Reader Achievement badge" title="September Reader" width="200" loading="lazy"/></td>
   <td>September Reader</td>
   <td>Read at least one book in the month of September</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="October Reader Achievement badge" title="October Reader" width="200" loading="lazy"/></td>
   <td>October Reader</td>
   <td>Read at least one book in the month of October</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="November Reader Achievement badge" title="November Reader" width="200" loading="lazy"/></td>
   <td>November Reader</td>
   <td>Read at least one book in the month of November</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="December Reader Achievement badge" title="December Reader" width="200" loading="lazy"/></td>
   <td>December Reader</td>
   <td>Read at least one book in the month of December</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="Grand Slam Achievement badge (TBD)" title="Grand Slam" width="200" loading="lazy"/></td>
   <td>Grand Slam</td>
   <td>Complete the set! Collect this achievement by finishing a book every month of the year.</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="Nailed It Achievement badge (TBD)" title="Nailed It" width="200" loading="lazy"/></td>
   <td>Nailed It</td>
   <td>Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 12/17/2025.</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="Stepped Up Achievement badge (TBD)" title="Stepped Up" width="200" loading="lazy"/></td>
   <td>Stepped Up</td>
   <td>One up your best self by completing more books than last year. Eligible to collect starting 12/23/2025.</td>
@@ -210,39 +210,39 @@ Limited-time achievements to inspire you toward your annual goal
 <strong>September - December 2024</strong>
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
-<tr align="center" valign="center" valign="center">
+<tr valign="center">
   <th>Badge</th>
   <th>Name</th>
   <th>How to get</th>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Sapphire-Reader/sapphire-reader.webp" alt="A person wearing glasses and a blue sweater is holding a book in their hand and also a newspaper under one of their arms. The graphic also shows another book floating in front of them, with a background pattern of blue and orange" title="Sapphire Reader" width="200" loading="lazy"/></td>
   <td>Sapphire Reader</td>
   <td>You're a gem! You collected this achievement by completing a book during this challenge. How many more achievements can you collect?</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Emerald-Reader/emerald-reader.webp" alt="Emerald Reader badge" title="Emerald Reader" width="200" loading="lazy"/></td>
   <td>Emerald Reader</td>
   <td>A precious feat! You collected this achievement by reading 3 books during this challenge.
 </td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Diamond-Reader/diamond-reader.webp" alt="Diamond Reader badge" title="Diamond Reader" width="200" loading="lazy"/></td>
   <td>Diamond Reader</td>
   <td>Your brilliance shows! You collected this achievement by reading 5 books during the Readers' Picks challenge.</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Fall-Vibes/fall-vibes.webp" alt="Fall Vibes badge" title="Fall Vibes" width="200" loading="lazy"/></td>
   <td>Fall Vibes</td>
   <td>Autumnally awesome! You collected this achievement by reading a book from the Fall Vibes list between October 16 and December 31.</td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td><img src="Media/Badges/Choice-Awards/choice-awards.webp" alt="Choice Awards badge" title="Choice Awards" width="200" loading="lazy"/></td>
   <td>Choice Awards</td>
   <td>You've got our vote! You collected this achievement by reading a 2024 Goodreads Choice Awards nominee between November 14 and December 31.
 </td>
 </tr>
-<tr align="center" valign="center">
+<tr>
   <td colspan="3"><h3 class="cta"><a href="https://github.com/BenRogersWPG/Goodreads-Achievements#-goodreads-achievements-" title="View FULL list on GitHub">View FULL list on GitHub</a></h3></td>
 </tr>
 </table>
