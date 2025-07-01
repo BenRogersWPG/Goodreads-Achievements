@@ -101,19 +101,19 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="Page Turner achievement bookmark" title="Page Turner" width="200" fetchpriority="high"></td>
+  <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="Page Turner achievement bookmark" title="Page Turner" width="200" loading="lazy"></td>
   <td>Page Turner</td>
   <td>Collect this achievement when you finish 2 books during the challenge.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Speed-Reader/speed-reader.webp" alt="An illustration of a person holding an open yellow-colored book. The reader is wearing a blue outfit with pink dots, and is wearing pink headphones" title="Speed Reader" width="200"></td>
+  <td><img src="Media/Badges/Speed-Reader/speed-reader.webp" alt="An illustration of a person holding an open yellow-colored book. The reader is wearing a blue outfit with pink dots, and is wearing pink headphones" title="Speed Reader" width="200" loading="lazy"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish 3 books during the challenge.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Book-Boss/book-boss.webp" alt="Book Boss achievement bookmark" title="Book Boss" width="200"></td>
+  <td><img src="Media/Badges/Book-Boss/book-boss.webp" alt="Book Boss achievement bookmark" title="Book Boss" width="200" loading="lazy"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish 4 books during the challenge.
 </td>
