@@ -9,21 +9,41 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 # 📃 2025 Achievement List 📃
+## Summer Challenge (9)
+### July 1 - September 14, 2025
+
+Page-turning season is here! And so are summertime achievements.
+
+|                                     Badge                                      |       Name        |                                                                 How to get                                                                  |
+| :----------------------------------------------------------------------------: | :---------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|    <img src="Media/Badges/Empty/empty.png" alt="Page-Turner" width="200"/>     |    Page-Turner    |                            Collect this achievement when you finish any 2 books between July 1 and September 14.                            |
+|    <img src="Media/Badges/Empty/empty.png" alt="Speed Reader" width="200"/>    |   Speed Reader    |                            Collect this achievement when you finish any 3 books between July 1 and September 14.                            |
+|     <img src="Media/Badges/Empty/empty.png" alt="Book Boss" width="200"/>      |     Book Boss     |                            Collect this achievement when you finish any 5 books between July 1 and September 14.                            |
+|  <img src="Media/Badges/Empty/empty.png" alt="Challenge Faves" width="200"/>   |  Challenge Faves  | Collect this achievement when you finish one of the most-read books of the 2025 Reading Challenge (so far) between July 1 and September 14. |
+| <img src="Media/Badges/Empty/empty.png" alt="Poolside Puzzlers	" width="200"/> | Poolside Puzzlers |         Collect this achievement when you finish one of these beach-ready mysteries and thrillers between July 1 and September 14.       |
+|    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>     |      Mystery      |                                               **Hint:** Talk of the town. Reveals on 7/8/2025                                               |
+|    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>     |      Mystery      |       **Hint:** Best in show. Reveals on 7/15/2025                      |
+|    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>     |      Mystery      |      **Hint:** Introducing...! Reveals on 8/1/2025                                    |
+|    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>     |      Mystery      |        **Hint:** On your marks, get set, go! Reveals on 8/14/2025                    |
+
+
+<br>
+
 ## Seasonal Challenge (7)
 ### May 1 - June 30, 2025
 
 Limited-time achievements to inspire you toward your annual goal
 
 
-|                                               Badge                                                |       Name       |                                                       How to get                                                       |
-| :------------------------------------------------------------------------------------------------: | :--------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|        <img src="Media/Badges/Page-Turner/page-turner.png" alt="Page-Turner" width="200"/>         |   Page-Turner    |                         Collect this achievement when you finish 2 books during the challenge.                         |              |                                         |
-|       <img src="Media/Badges/Speed-Reader/speed-reader.png" alt="Speed Reader" width="200"/>       |   Speed Reader   |                         Collect this achievement when you finish 3 books during the challenge.                         |
-|           <img src="Media/Badges/Book-Boss/book-boss.png" alt="Book Boss" width="200"/>            |    Book Boss     |                         Collect this achievement when you finish 4 books during the challenge.                         |
-| <img src="Media/Badges/Centennial-Picks/centennial-picks.png" alt="Centennial Picks" width="200"/> | Centennial Picks | Collect this achievement when you finish one of these popular books from the past 100 years between May 1 and June 30. |
-|    <img src="Media/Badges/Heritage-Reads/heritage-reads.png" alt="Heritage Reads" width="200"/>    |  Heritage Reads  |    Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.    |
-|              <img src="Media/Badges/Armchair-Explorer/armchair-explorer.png" alt="Armchair Explorer" width="200"/>               |     Armchair Explorer      |                                         Collect this achievement when you bask in the summertime sun by finishing one of these books between May 15 and June 30.                                          |
-|              <img src="Media/Badges/Rainbow-Reads/rainbow-reads.png" alt="Rainbow Reads" width="200"/>               |     Rainbow Reads      |                                             Collect this achievement when you finish one of these LGBTQ+ books between June 1 and June 30.                                              |
+|                                                 Badge                                                 |       Name        |                                                        How to get                                                        |
+| :---------------------------------------------------------------------------------------------------: | :---------------: | :----------------------------------------------------------------------------------------------------------------------: |
+|          <img src="Media/Badges/Page-Turner/page-turner.png" alt="Page-Turner" width="200"/>          |    Page-Turner    |                          Collect this achievement when you finish 2 books during the challenge.                          |  |  |
+|        <img src="Media/Badges/Speed-Reader/speed-reader.png" alt="Speed Reader" width="200"/>         |   Speed Reader    |    Collect this achievement when you finish 3 books during the challenge.                          |
+|             <img src="Media/Badges/Book-Boss/book-boss.png" alt="Book Boss" width="200"/>             |     Book Boss     |   Collect this achievement when you finish 4 books during the challenge.                          |
+|  <img src="Media/Badges/Centennial-Picks/centennial-picks.png" alt="Centennial Picks" width="200"/>   | Centennial Picks  |  Collect this achievement when you finish one of these popular books from the past 100 years between May 1 and June 30.  |
+|     <img src="Media/Badges/Heritage-Reads/heritage-reads.png" alt="Heritage Reads" width="200"/>      |  Heritage Reads   |     Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.     |
+| <img src="Media/Badges/Armchair-Explorer/armchair-explorer.png" alt="Armchair Explorer" width="200"/> | Armchair Explorer | Collect this achievement when you bask in the summertime sun by finishing one of these books between May 15 and June 30. |
+|       <img src="Media/Badges/Rainbow-Reads/rainbow-reads.png" alt="Rainbow Reads" width="200"/>       |   Rainbow Reads   |    Collect this achievement when you finish one of these LGBTQ+ books between June 1 and June 30.    |
 
 
 <br>
@@ -52,9 +72,9 @@ Limited-time achievements to inspire you toward your annual goal
 | <img src="Media/Badges/February/February.png" alt="February Reader" width="200"/> | February Reader  |                                 Read at least one book in the month of February                                 |
 |     <img src="Media/Badges/March/march.png" alt="March Reader" width="200"/>      |   March Reader   |                                  Read at least one book in the month of March                                   |
 |     <img src="Media/Badges/April/april.png" alt="April Reader" width="200"/>      |   April Reader   |                                  Read at least one book in the month of April                                   |
-|      <img src="Media/Badges/May/may.png" alt="May Reader" width="200"/>       |    May Reader    |                                   Read at least one book in the month of May                                    |
-|      <img src="Media/Badges/June/june.png" alt="June Reader" width="200"/>      |   June Reader    |                                   Read at least one book in the month of June                                   |
-|      <img src="Media/Badges/July/july.png" alt="July Reader" width="200"/>      |   July Reader    |                                   Read at least one book in the month of July                                   |
+|        <img src="Media/Badges/May/may.png" alt="May Reader" width="200"/>         |    May Reader    |                                   Read at least one book in the month of May                                    |
+|       <img src="Media/Badges/June/june.png" alt="June Reader" width="200"/>       |   June Reader    |                                   Read at least one book in the month of June                                   |
+|       <img src="Media/Badges/July/july.png" alt="July Reader" width="200"/>       |   July Reader    |                                   Read at least one book in the month of July                                   |
 |     <img src="Media/Badges/Empty/empty.png" alt="August Reader" width="200"/>     |  August Reader   |                                  Read at least one book in the month of August                                  |
 |   <img src="Media/Badges/Empty/empty.png" alt="September Reader" width="200"/>    | September Reader |                                Read at least one book in the month of September                                 |
 |    <img src="Media/Badges/Empty/empty.png" alt="October Reader" width="200"/>     |  October Reader  |                                 Read at least one book in the month of October                                  |
