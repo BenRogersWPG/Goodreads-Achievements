@@ -10,6 +10,82 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 <h2>📃 2025 Achievement List 📃</h2>
+<h3>Summer Challenge (9)</h3>
+<strong>July 1 - September 14, 2025</strong>
+
+Page-turning season is here! And so are summertime achievements.
+
+<br>
+
+<div class="table-wrapper" style="overflow-x: auto;">
+<table>
+<tr>
+  <th>Badge</th>
+  <th>Name</th>
+  <th>How to get</th>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Page Turner" width="200" fetchpriority="high"></td>
+  <td>Page Turner</td>
+  <td>Collect this achievement when you finish any 2 books between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Speed Reader" width="200"></td>
+  <td>Speed Reader</td>
+  <td>Collect this achievement when you finish any 3 books between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Book Boss" width="200"></td>
+  <td>Book Boss</td>
+  <td>Collect this achievement when you finish any 5 books between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Challenge Faves" width="200" loading="lazy"></td>
+  <td>Challenge Faves</td>
+  <td>Collect this achievement when you finish one of the most-read books of the 2025 Reading Challenge (so far) between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Poolside Puzzlers" width="200" loading="lazy"></td>
+  <td>Poolside Puzzlers</td>
+  <td>Collect this achievement when you finish one of these beach-ready mysteries and thrillers between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td><strong>Hint:</strong> Talk of the town.
+  Reveals on 7/8/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td><strong>Hint:</strong> Best in show.
+Reveals on 7/15/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td><strong>Hint:</strong> Introducing...!
+Reveals on 8/1/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td><strong>Hint:</strong> On your marks, get set, go!
+Reveals on 8/14/2025
+</td>
+</tr>
+</table>
+</div>
+
+
 <h3>Seasonal Challenge (7)</h3>
 <strong>May 1 - June 30, 2025</strong>
 
