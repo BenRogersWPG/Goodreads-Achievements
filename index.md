@@ -25,19 +25,19 @@ Page-turning season is here! And so are summertime achievements.
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Page Turner" width="200" fetchpriority="high"></td>
-  <td>Page Turner</td>
+  <td><img src="Media/Badges/Page-Turner/page-turner-summer.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td>Page-Turner</td>
   <td>Collect this achievement when you finish any 2 books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Speed Reader" width="200"></td>
+  <td><img src="Media/Badges/Speed-Reader/speed-reader-summer.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish any 3 books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Book Boss" width="200"></td>
+  <td><img src="Media/Badges/Book-Boss/book-boss-summer.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish any 5 books between July 1 and September 14.
 </td>
@@ -101,8 +101,8 @@ Limited-time achievements to inspire you toward your annual goal
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="Page Turner achievement bookmark" title="Page Turner" width="200" loading="lazy"></td>
-  <td>Page Turner</td>
+  <td><img src="Media/Badges/Page-Turner/page-turner.webp" alt="Page-Turner achievement bookmark" title="Page-Turner" width="200" loading="lazy"></td>
+  <td>Page-Turner</td>
   <td>Collect this achievement when you finish 2 books during the challenge.
 </td>
 </tr>
