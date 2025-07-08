@@ -49,7 +49,7 @@ Page-turning season is here! And so are summertime achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Poolside Puzzlers" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Poolside-Puzzlers/poolside-puzzlers.webp" alt="Poolside Puzzlers bookmark badge" title="Poolside Puzzlers" width="200" loading="lazy"></td>
   <td>Poolside Puzzlers</td>
   <td>Collect this achievement when you finish one of these beach-ready mysteries and thrillers between July 1 and September 14.
 </td>
