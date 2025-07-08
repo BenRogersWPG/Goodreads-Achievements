@@ -55,10 +55,9 @@ Page-turning season is here! And so are summertime achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> Talk of the town.
-  Reveals on 7/8/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="TBD" title="Chart Toppers" width="200" loading="lazy"></td>
+  <td>Chart Toppers</td>
+  <td>Collect this achievement when you finish one of these hit new books from the first half of the year between July 8 and September 14.
 </td>
 </tr>
 <tr>
