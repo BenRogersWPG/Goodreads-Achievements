@@ -286,7 +286,7 @@ Limited-time achievements to inspire you toward your annual goal
 <strong>September - December 2024</strong>
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
-<tr valign="center">
+<tr>
   <th>Badge</th>
   <th>Name</th>
   <th>How to get</th>
