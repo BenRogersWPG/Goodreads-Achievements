@@ -43,7 +43,7 @@ Page-turning season is here! And so are summertime achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Empty blue bookmark badge" title="Challenge Faves" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Challenge-Faves/challenge-faves.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200" loading="lazy"></td>
   <td>Challenge Faves</td>
   <td>Collect this achievement when you finish one of the most-read books of the 2025 Reading Challenge (so far) between July 1 and September 14.
 </td>
