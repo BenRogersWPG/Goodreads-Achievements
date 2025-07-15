@@ -61,10 +61,9 @@ Page-turning season is here! And so are summertime achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> Best in show.
-Reveals on 7/15/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Acclaimed Titles" title="Acclaimed Titles" width="200" loading="lazy"></td>
+  <td>Acclaimed Titles</td>
+  <td>Pulitzers, Hugos, Bookers, oh my! Collect this achievement when you finish one of these award-winning books between July 15 and September 14.
 </td>
 </tr>
 <tr>
