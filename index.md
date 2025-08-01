@@ -67,10 +67,9 @@ Page-turning season is here! And so are summertime achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> Introducing...!
-Reveals on 8/1/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Debut Darlings" title="Debut Darlings" width="200" loading="lazy"></td>
+  <td>Debut Darlings</td>
+  <td>Collect this achievement when you finish one of these books by first-time authors between August 1 and September 14.
 </td>
 </tr>
 <tr>
