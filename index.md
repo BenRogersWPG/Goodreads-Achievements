@@ -234,7 +234,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td>Read at least one book in the month of July</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="August Reader Achievement badge" title="August Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/August/august.webp" alt="August Reader Achievement badge" title="August Reader" width="200" loading="lazy"></td>
   <td>August Reader</td>
   <td>Read at least one book in the month of August</td>
 </tr>
