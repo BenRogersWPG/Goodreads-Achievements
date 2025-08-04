@@ -23,7 +23,7 @@ Page-turning season is here! And so are summertime achievements.
 | <img src="Media/Badges/Poolside-Puzzlers/poolside-puzzlers.png" alt="Poolside Puzzlers" width="200"/> | Poolside Puzzlers |         Collect this achievement when you finish one of these beach-ready mysteries and thrillers between July 1 and September 14.       |
 |    <img src="Media/Badges/Chart-Toppers/chart-toppers.png" alt="Chart Toppers" width="200"/>     |      Chart Toppers      |                    Collect this achievement when you finish one of these hit new books from the first half of the year between July 8 and September 14.            |
 |    <img src="Media/Badges/Acclaimed-Titles/acclaimed-titles.png" alt="Acclaimed Titles" width="200"/>     |      Acclaimed Titles      |       Pulitzers, Hugos, Bookers, oh my! Collect this achievement when you finish one of these award-winning books between July 15 and September 14.                      |
-|    <img src="Media/Badges/Empty/empty.png" alt="Debut Darlings" width="200"/>     |      Debut Darlings      |      Collect this achievement when you finish one of these books by first-time authors between August 1 and September 14.                                    |
+|    <img src="Media/Badges/Debut-Darlings/debut-darlings.png" alt="Debut Darlings" width="200"/>     |      Debut Darlings      |      Collect this achievement when you finish one of these books by first-time authors between August 1 and September 14.                                    |
 |    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>     |      Mystery      |        **Hint:** On your marks, get set, go! Reveals on 8/14/2025                    |
 
 
