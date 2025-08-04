@@ -67,7 +67,7 @@ Page-turning season is here! And so are summertime achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Debut Darlings" title="Debut Darlings" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Debut-Darlings/debut-darlings.webp" alt="Debut Darlings bookmark badge" title="Debut Darlings" width="200" loading="lazy"></td>
   <td>Debut Darlings</td>
   <td>Collect this achievement when you finish one of these books by first-time authors between August 1 and September 14.
 </td>
