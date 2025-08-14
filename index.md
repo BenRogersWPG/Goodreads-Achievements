@@ -73,7 +73,7 @@ Page-turning season is here! And so are summertime achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Lightning Round" title="Lightning Round" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Lightning-Round/lightning-round.webp" alt="Lightning Round bookmark badge" title="Lightning Round" width="200" loading="lazy"></td>
   <td>Lightning Round</td>
   <td>Collect this achievement when you finish one of these books--of varying length--in a month or less, between August 14 and September 14.
 </td>
