@@ -14,17 +14,17 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 
 Page-turning season is here! And so are summertime achievements.
 
-|                                     Badge                                      |       Name        |                                                                 How to get                                                                  |
-| :----------------------------------------------------------------------------: | :---------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-|    <img src="Media/Badges/Page-Turner/page-turner-summer.png" alt="Page-Turner" width="200"/>     |    Page-Turner    |                            Collect this achievement when you finish any 2 books between July 1 and September 14.                            |
-|    <img src="Media/Badges/Speed-Reader/speed-reader-summer.png" alt="Speed Reader" width="200"/>    |   Speed Reader    |                            Collect this achievement when you finish any 3 books between July 1 and September 14.                            |
-|     <img src="Media/Badges/Book-Boss/book-boss-summer.png" alt="Book Boss" width="200"/>      |     Book Boss     |                            Collect this achievement when you finish any 5 books between July 1 and September 14.                            |
-|  <img src="Media/Badges/Challenge-Faves/challenge-faves.png" alt="Challenge Faves" width="200"/>   |  Challenge Faves  | Collect this achievement when you finish one of the most-read books of the 2025 Reading Challenge (so far) between July 1 and September 14. |
-| <img src="Media/Badges/Poolside-Puzzlers/poolside-puzzlers.png" alt="Poolside Puzzlers" width="200"/> | Poolside Puzzlers |         Collect this achievement when you finish one of these beach-ready mysteries and thrillers between July 1 and September 14.       |
-|    <img src="Media/Badges/Chart-Toppers/chart-toppers.png" alt="Chart Toppers" width="200"/>     |      Chart Toppers      |                    Collect this achievement when you finish one of these hit new books from the first half of the year between July 8 and September 14.            |
-|    <img src="Media/Badges/Acclaimed-Titles/acclaimed-titles.png" alt="Acclaimed Titles" width="200"/>     |      Acclaimed Titles      |       Pulitzers, Hugos, Bookers, oh my! Collect this achievement when you finish one of these award-winning books between July 15 and September 14.                      |
-|    <img src="Media/Badges/Debut-Darlings/debut-darlings.png" alt="Debut Darlings" width="200"/>     |      Debut Darlings      |      Collect this achievement when you finish one of these books by first-time authors between August 1 and September 14.                                    |
-|    <img src="Media/Badges/Lightning-Round/lightning-round.png" alt="Lightning Round" width="200"/>     |      Lightning Round      |        Collect this achievement when you finish one of these books--of varying length--in a month or less, between August 14 and September 14.                    |
+|                                                 Badge                                                 |       Name        |                                                                  How to get                                                                   |
+| :---------------------------------------------------------------------------------------------------: | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+|      <img src="Media/Badges/Page-Turner/page-turner-summer.png" alt="Page-Turner" width="200"/>       |    Page-Turner    |                             Collect this achievement when you finish any 2 books between July 1 and September 14.                             |
+|     <img src="Media/Badges/Speed-Reader/speed-reader-summer.png" alt="Speed Reader" width="200"/>     |   Speed Reader    |                             Collect this achievement when you finish any 3 books between July 1 and September 14.                             |
+|         <img src="Media/Badges/Book-Boss/book-boss-summer.png" alt="Book Boss" width="200"/>          |     Book Boss     |                             Collect this achievement when you finish any 5 books between July 1 and September 14.                             |
+|    <img src="Media/Badges/Challenge-Faves/challenge-faves.png" alt="Challenge Faves" width="200"/>    |  Challenge Faves  |  Collect this achievement when you finish one of the most-read books of the 2025 Reading Challenge (so far) between July 1 and September 14.  |
+| <img src="Media/Badges/Poolside-Puzzlers/poolside-puzzlers.png" alt="Poolside Puzzlers" width="200"/> | Poolside Puzzlers |          Collect this achievement when you finish one of these beach-ready mysteries and thrillers between July 1 and September 14.           |
+|       <img src="Media/Badges/Chart-Toppers/chart-toppers.png" alt="Chart Toppers" width="200"/>       |   Chart Toppers   |     Collect this achievement when you finish one of these hit new books from the first half of the year between July 8 and September 14.      |
+|  <img src="Media/Badges/Acclaimed-Titles/acclaimed-titles.png" alt="Acclaimed Titles" width="200"/>   | Acclaimed Titles  | Pulitzers, Hugos, Bookers, oh my! Collect this achievement when you finish one of these award-winning books between July 15 and September 14. |
+|     <img src="Media/Badges/Debut-Darlings/debut-darlings.png" alt="Debut Darlings" width="200"/>      |  Debut Darlings   |             Collect this achievement when you finish one of these books by first-time authors between August 1 and September 14.              |
+|    <img src="Media/Badges/Lightning-Round/lightning-round.png" alt="Lightning Round" width="200"/>    |  Lightning Round  |    Collect this achievement when you finish one of these books--of varying length--in a month or less, between August 14 and September 14.    |
 
 
 <br>
@@ -38,12 +38,12 @@ Limited-time achievements to inspire you toward your annual goal
 |                                                 Badge                                                 |       Name        |                                                        How to get                                                        |
 | :---------------------------------------------------------------------------------------------------: | :---------------: | :----------------------------------------------------------------------------------------------------------------------: |
 |          <img src="Media/Badges/Page-Turner/page-turner.png" alt="Page-Turner" width="200"/>          |    Page-Turner    |                          Collect this achievement when you finish 2 books during the challenge.                          |  |  |
-|        <img src="Media/Badges/Speed-Reader/speed-reader.png" alt="Speed Reader" width="200"/>         |   Speed Reader    |    Collect this achievement when you finish 3 books during the challenge.                          |
-|             <img src="Media/Badges/Book-Boss/book-boss.png" alt="Book Boss" width="200"/>             |     Book Boss     |   Collect this achievement when you finish 4 books during the challenge.                          |
+|        <img src="Media/Badges/Speed-Reader/speed-reader.png" alt="Speed Reader" width="200"/>         |   Speed Reader    |                          Collect this achievement when you finish 3 books during the challenge.                          |
+|             <img src="Media/Badges/Book-Boss/book-boss.png" alt="Book Boss" width="200"/>             |     Book Boss     |                          Collect this achievement when you finish 4 books during the challenge.                          |
 |  <img src="Media/Badges/Centennial-Picks/centennial-picks.png" alt="Centennial Picks" width="200"/>   | Centennial Picks  |  Collect this achievement when you finish one of these popular books from the past 100 years between May 1 and June 30.  |
 |     <img src="Media/Badges/Heritage-Reads/heritage-reads.png" alt="Heritage Reads" width="200"/>      |  Heritage Reads   |     Collect this achievement when you finish one of these books by AAPI and Asian authors between May 1 and June 30.     |
 | <img src="Media/Badges/Armchair-Explorer/armchair-explorer.png" alt="Armchair Explorer" width="200"/> | Armchair Explorer | Collect this achievement when you bask in the summertime sun by finishing one of these books between May 15 and June 30. |
-|       <img src="Media/Badges/Rainbow-Reads/rainbow-reads.png" alt="Rainbow Reads" width="200"/>       |   Rainbow Reads   |    Collect this achievement when you finish one of these LGBTQ+ books between June 1 and June 30.    |
+|       <img src="Media/Badges/Rainbow-Reads/rainbow-reads.png" alt="Rainbow Reads" width="200"/>       |   Rainbow Reads   |              Collect this achievement when you finish one of these LGBTQ+ books between June 1 and June 30.              |
 
 
 <br>
@@ -66,23 +66,23 @@ Limited-time achievements to inspire you toward your annual goal
 ## Monthly 2025 Reading Challenge (15)
 ### January 1 - December 31, 2025
 
-|                                       Badge                                       |       Name       |                                                   How to get                                                    |
-| :-------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------------------------------------------------------------: |
-|  <img src="Media/Badges/January/january.png" alt="January Reader" width="200"/>   |  January Reader  |                                 Read at least one book in the month of January                                  |
-| <img src="Media/Badges/February/February.png" alt="February Reader" width="200"/> | February Reader  |                                 Read at least one book in the month of February                                 |
-|     <img src="Media/Badges/March/march.png" alt="March Reader" width="200"/>      |   March Reader   |                                  Read at least one book in the month of March                                   |
-|     <img src="Media/Badges/April/april.png" alt="April Reader" width="200"/>      |   April Reader   |                                  Read at least one book in the month of April                                   |
-|        <img src="Media/Badges/May/may.png" alt="May Reader" width="200"/>         |    May Reader    |                                   Read at least one book in the month of May                                    |
-|       <img src="Media/Badges/June/june.png" alt="June Reader" width="200"/>       |   June Reader    |                                   Read at least one book in the month of June                                   |
-|       <img src="Media/Badges/July/july.png" alt="July Reader" width="200"/>       |   July Reader    |                                   Read at least one book in the month of July                                   |
-|     <img src="Media/Badges/August/august.png" alt="August Reader" width="200"/>     |  August Reader   |                                  Read at least one book in the month of August                                  |
-|   <img src="Media/Badges/Empty/empty.png" alt="September Reader" width="200"/>    | September Reader |                                Read at least one book in the month of September                                 |
-|    <img src="Media/Badges/Empty/empty.png" alt="October Reader" width="200"/>     |  October Reader  |                                 Read at least one book in the month of October                                  |
-|    <img src="Media/Badges/Empty/empty.png" alt="November Reader" width="200"/>    | November Reader  |                                 Read at least one book in the month of November                                 |
-|    <img src="Media/Badges/Empty/empty.png" alt="December Reader" width="200"/>    | December Reader  |                                 Read at least one book in the month of December                                 |
-|      <img src="Media/Badges/Empty/empty.png" alt="Grand Slam" width="200"/>       |    Grand Slam    |             Complete the set! Collect this achievement by finishing a book every month of the year.             |
-|       <img src="Media/Badges/Empty/empty.png" alt="Nailed It" width="200"/>       |    Nailed It     | Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 12/17/2025. |
-|      <img src="Media/Badges/Empty/empty.png" alt="Stepped Up" width="200"/>       |    Stepped Up    |     One up your best self by completing more books than last year. Eligible to collect starting 12/23/2025.     |
+|                                        Badge                                         |       Name       |                                                   How to get                                                    |
+| :----------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------------------------------------------------------------: |
+|    <img src="Media/Badges/January/january.png" alt="January Reader" width="200"/>    |  January Reader  |                                 Read at least one book in the month of January                                  |
+|  <img src="Media/Badges/February/February.png" alt="February Reader" width="200"/>   | February Reader  |                                 Read at least one book in the month of February                                 |
+|       <img src="Media/Badges/March/march.png" alt="March Reader" width="200"/>       |   March Reader   |                                  Read at least one book in the month of March                                   |
+|       <img src="Media/Badges/April/april.png" alt="April Reader" width="200"/>       |   April Reader   |                                  Read at least one book in the month of April                                   |
+|          <img src="Media/Badges/May/may.png" alt="May Reader" width="200"/>          |    May Reader    |                                   Read at least one book in the month of May                                    |
+|        <img src="Media/Badges/June/june.png" alt="June Reader" width="200"/>         |   June Reader    |                                   Read at least one book in the month of June                                   |
+|        <img src="Media/Badges/July/july.png" alt="July Reader" width="200"/>         |   July Reader    |                                   Read at least one book in the month of July                                   |
+|     <img src="Media/Badges/August/august.png" alt="August Reader" width="200"/>      |  August Reader   |                                  Read at least one book in the month of August                                  |
+| <img src="Media/Badges/September/september.png" alt="September Reader" width="200"/> | September Reader |                                Read at least one book in the month of September                                 |
+|      <img src="Media/Badges/Empty/empty.png" alt="October Reader" width="200"/>      |  October Reader  |                                 Read at least one book in the month of October                                  |
+|     <img src="Media/Badges/Empty/empty.png" alt="November Reader" width="200"/>      | November Reader  |                                 Read at least one book in the month of November                                 |
+|     <img src="Media/Badges/Empty/empty.png" alt="December Reader" width="200"/>      | December Reader  |                                 Read at least one book in the month of December                                 |
+|        <img src="Media/Badges/Empty/empty.png" alt="Grand Slam" width="200"/>        |    Grand Slam    |             Complete the set! Collect this achievement by finishing a book every month of the year.             |
+|        <img src="Media/Badges/Empty/empty.png" alt="Nailed It" width="200"/>         |    Nailed It     | Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 12/17/2025. |
+|        <img src="Media/Badges/Empty/empty.png" alt="Stepped Up" width="200"/>        |    Stepped Up    |     One up your best self by completing more books than last year. Eligible to collect starting 12/23/2025.     |
 
 <br>
 
