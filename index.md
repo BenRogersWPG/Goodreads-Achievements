@@ -10,6 +10,96 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 <h2>📃 2025 Achievement List 📃</h2>
+<h3>Fall Challenge (12)</h3>
+<strong>September 15 - December 31, 2025</strong>
+
+2025's final achievement season, to inspire you toward your annual goal
+
+<br>
+
+<div class="table-wrapper" style="overflow-x: auto;">
+<table>
+<tr>
+  <th>Badge</th>
+  <th>Name</th>
+  <th>How to get</th>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Page-Turner/page-turner-fall.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td>Page-Turner</td>
+  <td>Collect this achievement when you finish any 2 books between September 15 - December 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Speed-Reader/speed-reader-fall.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td>Speed Reader</td>
+  <td>Collect this achievement when you finish any 3 books between September 15 - December 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Book-Boss/book-boss-fall.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td>Book Boss</td>
+  <td>Collect this achievement when you finish any 5 books between September 15 - December 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
+  <td>Community Picks</td>
+  <td>Your fellow readers voted across our social media channels for this one! Collect this achievement when you finish one of these dark academia fiction books between Sept. 15 and Dec. 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Hispanic Heritage bookmark badge" title="Hispanic Heritage" width="200"></td>
+  <td>Hispanic Heritage</td>
+  <td>Collect this achievement when you finish one of these books for Hispanic Heritage Month between Sept. 15 and Dec. 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>Hint: Boo! Reveals on 10/1/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>Hint: Best served with a mug of hot chocolate Reveals on 10/1/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>Hint: A look back Reveals on 10/1/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>Hint: You can't make this stuff up Reveals on 10/1/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>Hint: Celebrating heritage Reveals on 11/1/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>Hint: Short and sweet Reveals on 11/1/2025
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>Hint: Drumroll, please Reveals on 11/11/2025
+</td>
+</tr>
+</table>
+</div>
+
+<h2>📃 2025 Achievement List 📃</h2>
 <h3>Summer Challenge (9)</h3>
 <strong>July 1 - September 14, 2025</strong>
 
@@ -25,19 +115,19 @@ Page-turning season is here! And so are summertime achievements.
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Page-Turner/page-turner-summer.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td><img src="Media/Badges/Page-Turner/page-turner-summer.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" loading="lazy"></td>
   <td>Page-Turner</td>
   <td>Collect this achievement when you finish any 2 books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Speed-Reader/speed-reader-summer.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td><img src="Media/Badges/Speed-Reader/speed-reader-summer.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200" loading="lazy"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish any 3 books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Book-Boss/book-boss-summer.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td><img src="Media/Badges/Book-Boss/book-boss-summer.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200" loading="lazy"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish any 5 books between July 1 and September 14.
 </td>

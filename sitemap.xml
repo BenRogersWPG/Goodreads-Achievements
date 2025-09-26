@@ -16,6 +16,21 @@
     <priority>0.80</priority>
     <image:image>
       <image:loc>
+        https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Page-Turner/page-turner-fall.webp</image:loc>
+      </image:image>
+    <image:image>
+      <image:loc>
+        https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Speed-Reader/speed-reader-fall.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Empty/empty.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>
+        https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Book-Boss/book-boss-summer.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>
         https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Page-Turner/page-turner-summer.webp</image:loc>
     </image:image>
     <image:image>
@@ -41,9 +56,6 @@
     <image:image>
       <image:loc>
         https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Acclaimed-Titles/acclaimed-titles.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://benrogerswpg.github.io/Goodreads-Achievements/Media/Badges/Empty/empty.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>
