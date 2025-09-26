@@ -12,8 +12,7 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 ## Fall Challenge (12)
 ### September 15 - December 31, 2025
 
-Page-turning season is here! And so are summertime achievements.
-
+2025's final achievement season, to inspire you toward your annual goal
 |                                            Badge                                            |       Name        |                                                                                        How to get                                                                                        |
 | :-----------------------------------------------------------------------------------------: | :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  <img src="Media/Badges/Page-Turner/page-turner-fall.png" alt="Page-Turner" width="200"/>   |    Page-Turner    |                                                 Collect this achievement when you finish any 2 books between September 15 - December 31.                                                 |
