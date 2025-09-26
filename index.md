@@ -99,7 +99,6 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </table>
 </div>
 
-<h2>📃 2025 Achievement List 📃</h2>
 <h3>Summer Challenge (9)</h3>
 <strong>July 1 - September 14, 2025</strong>
 
