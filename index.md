@@ -63,7 +63,7 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <tr>
   <td><img src="Media/Badges/Heart-Warmers/heart-warmers.webp" alt="Heart-Warmers bookmark badge" title="Heart-Warmers" width="200" loading="lazy"></td>
   <td>Heart-Warmers</td>
-  <td>Collect this achievement when you read one of these these cozy reads between Oct. 15 and Dec.
+  <td>Collect this achievement when you read one of these these cozy reads between Oct. 15 and Dec. 31
 </td>
 </tr>
 <tr>
