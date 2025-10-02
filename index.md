@@ -55,7 +55,7 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Spine Tinglers bookmark badge" title="Spine Tinglers" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Spine-Tinglers/spine-tinglers.webp" alt="Spine Tinglers bookmark badge" title="Spine Tinglers" width="200" loading="lazy"></td>
   <td>Spine Tinglers</td>
   <td>Collect this achievement when you finish one of these spooky-season horror books between Oct. 1 and Dec. 31.
 </td>
