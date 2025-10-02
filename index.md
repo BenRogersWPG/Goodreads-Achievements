@@ -43,39 +43,39 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
+  <td><img src="Media/Badges/Community-Picks/community-picks.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
   <td>Community Picks</td>
   <td>Your fellow readers voted across our social media channels for this one! Collect this achievement when you finish one of these dark academia fiction books between Sept. 15 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Hispanic Heritage bookmark badge" title="Hispanic Heritage" width="200"></td>
+  <td><img src="Media/Badges/Hispanic-Heritage/hispanic-heritage.webp" alt="Hispanic Heritage bookmark badge" title="Hispanic Heritage" width="200"></td>
   <td>Hispanic Heritage</td>
   <td>Collect this achievement when you finish one of these books for Hispanic Heritage Month between Sept. 15 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Boo! Reveals on 10/1/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Spine Tinglers bookmark badge" title="Spine Tinglers" width="200" loading="lazy"></td>
+  <td>Spine Tinglers</td>
+  <td>Collect this achievement when you finish one of these spooky-season horror books between Oct. 1 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Best served with a mug of hot chocolate Reveals on 10/1/2025
+  <td><img src="Media/Badges/Heart-Warmers/heart-warmers.webp" alt="Heart-Warmers bookmark badge" title="Heart-Warmers" width="200" loading="lazy"></td>
+  <td>Heart-Warmers</td>
+  <td>Collect this achievement when you read one of these these cozy reads between Oct. 15 and Dec.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: A look back Reveals on 10/1/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Fiction Faves bookmark badge" title="Fiction Faves" width="200" loading="lazy"></td>
+  <td>Fiction Faves</td>
+  <td>Collect this achievement when you read one of these frequently shelved and highly rated fiction books from the past 10 years between Oct. 15 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: You can't make this stuff up Reveals on 10/1/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Memorable Memoirs bookmark badge" title="Memorable Memoirs" width="200" loading="lazy"></td>
+  <td>Memorable Memoirs</td>
+  <td>Collect this achievement when you read one of these frequently shelved and highly rated memoirs from the past 10 years between Oct. 15 and Dec. 31.
 </td>
 </tr>
 <tr>
