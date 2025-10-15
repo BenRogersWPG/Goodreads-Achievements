@@ -67,13 +67,13 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Fiction Faves bookmark badge" title="Fiction Faves" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Fiction-Faves/fiction-faves.webp" alt="Fiction Faves bookmark badge" title="Fiction Faves" width="200" loading="lazy"></td>
   <td>Fiction Faves</td>
   <td>Collect this achievement when you read one of these frequently shelved and highly rated fiction books from the past 10 years between Oct. 15 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Memorable Memoirs bookmark badge" title="Memorable Memoirs" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Memorable-Memoirs/memorable-memoirs.webp" alt="Memorable Memoirs bookmark badge" title="Memorable Memoirs" width="200" loading="lazy"></td>
   <td>Memorable Memoirs</td>
   <td>Collect this achievement when you read one of these frequently shelved and highly rated memoirs from the past 10 years between Oct. 15 and Dec. 31.
 </td>
