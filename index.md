@@ -337,7 +337,7 @@ Limited-time achievements to inspire you toward your annual goal
   <td>Read at least one book in the month of October</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="November Reader Achievement badge" title="November Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/November/november.webp" alt="November Reader Achievement badge" title="November Reader" width="200" loading="lazy"></td>
   <td>November Reader</td>
   <td>Read at least one book in the month of November</td>
 </tr>
