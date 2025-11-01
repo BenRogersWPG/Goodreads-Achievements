@@ -79,15 +79,15 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Celebrating heritage Reveals on 11/1/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Native Voices bookmark badge" title="Native Voices" width="200" loading="lazy"></td>
+  <td>Native Voices</td>
+  <td>Collect this achievement when you finish one of these books for Native American Heritage Month between Nov. 1 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Short and sweet Reveals on 11/1/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Bite-Size Books bookmark badge" title="Bite-Size Books" width="200" loading="lazy"></td>
+  <td>Bite-Size Books</td>
+  <td>Collect this achievement when you finish one of these short or shortish books between Nov. 1 and Dec. 31.
 </td>
 </tr>
 <tr>
