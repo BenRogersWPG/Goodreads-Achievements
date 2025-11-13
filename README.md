@@ -26,7 +26,7 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 | <img src="Media/Badges/Memorable-Memoirs/memorable-memoirs.png" alt="Memorable Memoirs" width="200"/> | Memorable Memoirs |                   Collect this achievement when you read one of these frequently shelved and highly rated memoirs from the past 10 years between Oct. 15 and Dec. 31.                    |
 |       <img src="Media/Badges/Native-Voices/native-voices.png" alt="Native Voices" width="200"/>       |   Native Voices   |                                Collect this achievement when you finish one of these books for Native American Heritage Month between Nov. 1 and Dec. 31.                                |
 |    <img src="Media/Badges/Bite-Size-Books/bite-size-books.png" alt="Bite-Size Books" width="200"/>    |  Bite-Size Books  |                                        Collect this achievement when you finish one of these short or shortish books between Nov. 1 and Dec. 31.                                         |
-|                <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                |      Mystery      |                                                                    **Hint:** Drumroll, please _Reveals on 11/11/2025_                                                                    |
+|               <img src="Media/Badges/Empty/empty.png" alt="Choice Awards" width="200"/>               |   Choice Awards   |          The 2025 Goodreads Choice Awards are here! Collect this achievement when you read one of the 300 winners or nominees across 15 categories between Dec. 4 and Dec. 31.           |
 
 
 
