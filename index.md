@@ -91,9 +91,9 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Drumroll, please Reveals on 11/11/2025
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Choice Awards bookmark badge" title="Choice Awards" width="200" loading="lazy"></td>
+  <td>Choice Awards</td>
+  <td>The 2025 Goodreads Choice Awards are here! Collect this achievement when you read one of the 300 winners or nominees across 15 categories between Dec. 4 and Dec. 31.
 </td>
 </tr>
 </table>
