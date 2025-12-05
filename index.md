@@ -91,7 +91,7 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Choice Awards bookmark badge" title="Choice Awards" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Choice-Awards/choice-awards-2025.webp" alt="Choice Awards bookmark badge" title="Choice Awards" width="200" loading="lazy"></td>
   <td>Choice Awards</td>
   <td>The 2025 Goodreads Choice Awards are here! Collect this achievement when you read one of the 300 winners or nominees across 15 categories between Dec. 4 and Dec. 31.
 </td>
