@@ -347,17 +347,17 @@ Limited-time achievements to inspire you toward your annual goal
   <td>Read at least one book in the month of December</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Grand Slam Achievement badge (TBD)" title="Grand Slam" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Grand-Slam/grand-slam.webp" alt="Grand Slam Achievement badge" title="Grand Slam" width="200" loading="lazy"></td>
   <td>Grand Slam</td>
   <td>Complete the set! Collect this achievement by finishing a book every month of the year.</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Nailed It Achievement badge (TBD)" title="Nailed It" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Nailed-It/nailed-it.webp" alt="Nailed It Achievement badge" title="Nailed It" width="200" loading="lazy"></td>
   <td>Nailed It</td>
   <td>Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 12/17/2025.</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Stepped Up Achievement badge (TBD)" title="Stepped Up" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/Stepped-Up/stepped-up.webp" alt="Stepped Up Achievement badge" title="Stepped Up" width="200" loading="lazy"></td>
   <td>Stepped Up</td>
   <td>One up your best self by completing more books than last year. Eligible to collect starting 12/23/2025.</td>
 </tr>
