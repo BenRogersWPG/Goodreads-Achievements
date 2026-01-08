@@ -8,8 +8,32 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 
 <br>
 
-# 📃 2025 Achievement List 📃
-## Fall Challenge (12)
+# 📃 2026 Achievement List 📃
+## Winter Challenge (12)
+### January 1 - March 31, 2026
+
+2026's opening achievement season to inspire you toward your annual goal
+|                                                     Badge                                                     |       Name        |                                                                How to get                                                                 |
+| :-----------------------------------------------------------------------------------------------------------: | :---------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|       <img src="Media/Badges/page-turner-winter/page-turner-winter.png" alt="Page-Turner" width="200"/>       |    Page-Turner    |                            Collect this achievement when you finish any 2 books between January 1 - March 31.                             |
+|     <img src="Media/Badges/speed-reader-winter/speed-reader-winter.png" alt="Speed Reader" width="200"/>      |   Speed Reader    |                            Collect this achievement when you finish any 3 books between January 1 - March 31.                             |
+|          <img src="Media/Badges/book-boss-winter/book-boss-winter.png" alt="Book Boss" width="200"/>          |     Book Boss     |                            Collect this achievement when you finish any 5 books between January 1 - March 31.                             |
+| <img src="Media/Badges/challenge-faves-winter/challenge-faves-winter.png" alt="Challenge Faves" width="200"/> |  Challenge Faves  | Collect this achievement when you finish one of the top-read books by 2025 Reading Challenge participants between January 1 and March 31. |
+|     <img src="Media/Badges/Empty/empty.png" alt="Choice Archive" width="200"/>     | Choice Archive |           Rediscover Goodreads Choice Awards history! Collect this achievement when you read one of these winners and nominees from years past between Jan. 1 and March 31.           |
+|         <img src="Media/Badges/Empty/empty.png" alt="Lasting Reads" width="200"/>          |  Lasting Reads   |               Collect this achievement when you read one of these popular books from the past 25 years between Jan. 1 and March 31.                |
+|           <img src="Media/Badges/Empty/empty.png" alt="Star Selections" width="200"/>           |   Star Selections   |                     Collect this achievement when you read one of these celebrity book club picks between Jan. 1 and March 31.                      |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Mystery - TBA                                                               |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Mystery - TBA                                                               |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Mystery - TBA                                                               |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Mystery - TBA                                                               |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Mystery - TBA                                                               |
+
+
+
+<br>
+
+# Previous Challenges
+## 2025 Fall Challenge (12)
 ### September 15 - December 31, 2025
 
 2025's final achievement season, to inspire you toward your annual goal
@@ -109,7 +133,7 @@ Limited-time achievements to inspire you toward your annual goal
 
 <br>
 
-# Previous Challenges
+
 
 ## Readers' Picks Challenge (5)
 ### September - December 2024
