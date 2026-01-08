@@ -159,7 +159,7 @@ Limited-time achievements to inspire you toward your annual goal
 
 
 
-## Readers' Picks Challenge (5)
+## 2024 Readers' Picks Challenge (5)
 ### September - December 2024
 
 
