@@ -99,6 +99,100 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </table>
 </div>
 
+
+<br>
+
+  <h3>Monthly Reading Challenge (15)</h3>
+  <strong>January 1 - December 31, 2025</strong>
+<br>
+
+<div class="table-wrapper" style="overflow-x: auto;">
+<table>
+<tr>
+  <th>Badge</th>
+  <th>Name</th>
+  <th>How to get</th>
+</tr>
+<tr>
+  <td><img src="Media/Badges/january-reader-2026/january-reader-2026.webp" alt="January Reader badge" title="January Reader" width="200" loading="lazy"></td>
+  <td>January Reader</td>
+  <td>Read at least one book in the month of January</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="February Reader badge" title="February Reader" width="200" loading="lazy"></td>
+  <td>February Reader</td>
+  <td>Read at least one book in the month of February</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="March Reader badge" title="March Reader" width="200" loading="lazy"></td>
+  <td>March Reader</td>
+  <td>Read at least one book in the month of March</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="April Reader Achievement badge" title="April Reader" width="200" loading="lazy"></td>
+  <td>April Reader</td>
+  <td>Read at least one book in the month of April</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="May Reader Achievement badge" title="May Reader" width="200" loading="lazy"></td>
+  <td>May Reader</td>
+  <td>Read at least one book in the month of May</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="June Reader Achievement badge" title="June Reader" width="200" loading="lazy"></td>
+  <td>June Reader</td>
+  <td>Read at least one book in the month of June</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="July Reader Achievement badge" title="July Reader" width="200" loading="lazy"></td>
+  <td>July Reader</td>
+  <td>Read at least one book in the month of July</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="August Reader Achievement badge" title="August Reader" width="200" loading="lazy"></td>
+  <td>August Reader</td>
+  <td>Read at least one book in the month of August</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="September Reader Achievement badge" title="September Reader" width="200" loading="lazy"></td>
+  <td>September Reader</td>
+  <td>Read at least one book in the month of September</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="October Reader Achievement badge" title="October Reader" width="200" loading="lazy"></td>
+  <td>October Reader</td>
+  <td>Read at least one book in the month of October</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="November Reader Achievement badge" title="November Reader" width="200" loading="lazy"></td>
+  <td>November Reader</td>
+  <td>Read at least one book in the month of November</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="December Reader Achievement badge" title="December Reader" width="200" loading="lazy"></td>
+  <td>December Reader</td>
+  <td>Read at least one book in the month of December</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Grand Slam Achievement badge" title="Grand Slam" width="200" loading="lazy"></td>
+  <td>Grand Slam</td>
+  <td>Complete the set! Collect this achievement by finishing a book every month of the year.</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Nailed It Achievement badge" title="Nailed It" width="200" loading="lazy"></td>
+  <td>Nailed It</td>
+  <td>Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 01/07/2026.</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Stepped Up Achievement badge" title="Stepped Up" width="200" loading="lazy"></td>
+  <td>Stepped Up</td>
+  <td>One up your best self by completing more books than last year. Eligible to collect starting 01/07/2026.</td>
+</tr>
+</table>
+</div>
+
+<br>
+
 <h2>Previous Challenges</h2>
 <h3>2025 Fall Challenge (12)</h3>
 <strong>September 15 - December 31, 2025</strong>
@@ -456,7 +550,7 @@ Limited-time achievements to inspire you toward your annual goal
 
 <br>
 
-<h3>Readers' Picks Challenge (5)</h3>
+<h3>2024 Readers' Picks Challenge (5)</h3>
 <strong>September - December 2024</strong>
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
