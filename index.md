@@ -9,8 +9,98 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 
 <br>
 
-<h2>📃 2025 Achievement List 📃</h2>
-<h3>Fall Challenge (12)</h3>
+<h2>📃 2026 Achievement List 📃</h2>
+<h3>Winter Challenge (12)</h3>
+<strong>January 1 - March 31, 2026</strong>
+
+2026's opening achievement season to inspire you toward your annual goal
+
+<br>
+
+<div class="table-wrapper" style="overflow-x: auto;">
+<table>
+<tr>
+  <th>Badge</th>
+  <th>Name</th>
+  <th>How to get</th>
+</tr>
+<tr>
+  <td><img src="Media/Badges/page-turner-winter/page-turner-winter.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td>Page-Turner</td>
+  <td>Collect this achievement when you finish any 2 books between January 1 - March 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/speed-reader-winter/speed-reader-winter.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td>Speed Reader</td>
+  <td>Collect this achievement when you finish any 3 books between January 1 - March 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/book-boss-winter/book-boss-winter.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td>Book Boss</td>
+  <td>Collect this achievement when you finish any 5 books between January 1 - March 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/challenge-faves-winter/challenge-faves-winter.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200"></td>
+  <td>Challenge Faves</td>
+  <td>Collect this achievement when you finish one of the top-read books by 2025 Reading Challenge participants between January 1 and March 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Choice Archive bookmark badge" title="Choice Archive" width="200"></td>
+  <td>Choice Archive</td>
+  <td>Rediscover Goodreads Choice Awards history! Collect this achievement when you read one of these winners and nominees from years past between Jan. 1 and March 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Lasting Reads bookmark badge" title="Lasting Reads" width="200"></td>
+  <td>Lasting Reads</td>
+  <td>Collect this achievement when you read one of these popular books from the past 25 years between Jan. 1 and March 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Star Selections bookmark badge" title="Star Selections" width="200"></td>
+  <td>Star Selections</td>
+  <td>Collect this achievement when you read one of these celebrity book club picks between Jan. 1 and March 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>TBA
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>TBA
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>TBA
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>TBA
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>TBA
+</td>
+</tr>
+</table>
+</div>
+
+<h2>Previous Challenges</h2>
+<h3>2025 Fall Challenge (12)</h3>
 <strong>September 15 - December 31, 2025</strong>
 
 2025's final achievement season, to inspire you toward your annual goal
@@ -366,7 +456,6 @@ Limited-time achievements to inspire you toward your annual goal
 
 <br>
 
-<h2>Previous Challenges</h2>
 <h3>Readers' Picks Challenge (5)</h3>
 <strong>September - December 2024</strong>
 <div class="table-wrapper" style="overflow-x: auto;">
