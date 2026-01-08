@@ -30,6 +30,30 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 
 
 
+## Monthly 2026 Reading Challenge (15)
+### January 1 - December 31, 2026
+
+|                                        Badge                                         |       Name       |                                                   How to get                                                    |
+| :----------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------------------------------------------------------------: |
+|    <img src="Media/Badges/january-reader-2026/january-reader-2026.png" alt="January Reader" width="200"/>    |  January Reader  |                                 Read at least one book in the month of January                                  |
+|  <img src="Media/Badges/Empty/empty.png" alt="February Reader" width="200"/>   | February Reader  |                                 Read at least one book in the month of February                                 |
+|       <img src="Media/Badges/Empty/empty.png" alt="March Reader" width="200"/>       |   March Reader   |                                  Read at least one book in the month of March                                   |
+|       <img src="Media/Badges/Empty/empty.png" alt="April Reader" width="200"/>       |   April Reader   |                                  Read at least one book in the month of April                                   |
+|          <img src="Media/Badges/Empty/empty.png" alt="May Reader" width="200"/>          |    May Reader    |                                   Read at least one book in the month of May                                    |
+|        <img src="Media/Badges/Empty/empty.png" alt="June Reader" width="200"/>         |   June Reader    |                                   Read at least one book in the month of June                                   |
+|        <img src="Media/Badges/Empty/empty.png" alt="July Reader" width="200"/>         |   July Reader    |                                   Read at least one book in the month of July                                   |
+|     <img src="Media/Badges/Empty/empty.png" alt="August Reader" width="200"/>      |  August Reader   |                                  Read at least one book in the month of August                                  |
+| <img src="Media/Badges/Empty/empty.png" alt="September Reader" width="200"/> | September Reader |                                Read at least one book in the month of September                                 |
+|    <img src="Media/Badges/Empty/empty.png" alt="October Reader" width="200"/>    |  October Reader  |                                 Read at least one book in the month of October                                  |
+|  <img src="Media/Badges/Empty/empty.png" alt="November Reader" width="200"/>   | November Reader  |                                 Read at least one book in the month of November                                 |
+|  <img src="Media/Badges/Empty/empty.png" alt="December Reader" width="200"/>   | December Reader  |                                 Read at least one book in the month of December                                 |
+|   <img src="Media/Badges/Empty/empty.png" alt="Grand Slam" width="200"/>   |    Grand Slam    |             Complete the set! Collect this achievement by finishing a book every month of the year.             |
+|    <img src="Media/Badges/Empty/empty.png" alt="Nailed It" width="200"/>     |    Nailed It     | Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 01/07/2026. |
+|   <img src="Media/Badges/Empty/empty.png" alt="Stepped Up" width="200"/>   |    Stepped Up    |     One up your best self by completing more books than last year. Eligible to collect starting 01/07/2026.      |
+
+<br>
+
+
 <br>
 
 # Previous Challenges
