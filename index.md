@@ -1,5 +1,5 @@
 <h1>Goodreads Achievements Guide</h1>
-<p>The full list of Goodreads achievements! Learn how to unlock every badge, complete themed reading challenges, and earn monthly goals throughout 2025.</p>
+<p>The full list of Goodreads achievements! Learn how to unlock every badge, complete themed reading challenges, and earn monthly goals throughout 2026.</p>
 <h2>What are Goodreads Achievements?</h2>
 <p>Goodreads reading achievements are collectable badges you receive just by logging your reading progress. Each badge corresponds to different goals - from reading a specific number of books, to completing themed challenges - and they’re only available for a limited time.
 </p>
