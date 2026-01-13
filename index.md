@@ -69,31 +69,36 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>TBA
+  <td>Hint: Old stories, new twists
+Reveals on 1/15/2026
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>TBA
+  <td>Hint: Celebrate Black History Month
+Reveals on 2/1/2026
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>TBA
+  <td>Hint: Sealed with a kiss
+Reveals on 2/1/2026
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>TBA
+  <td>Hint: Your reading personality awaits
+Reveals on 2/15/2026
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>TBA
+  <td>Hint: Celebrating Women's History Month
+Reveals on 3/1/2026
 </td>
 </tr>
 </table>
