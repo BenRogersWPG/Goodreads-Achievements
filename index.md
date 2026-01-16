@@ -67,10 +67,9 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Old stories, new twists
-Reveals on 1/15/2026
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Tale Spinners bookmark badge" title="Tale Spinners" width="200" loading="lazy"></td>
+  <td>Tale Spinners</td>
+  <td>Collect this achievement when you read a book from this collection of retellings between Jan. 15 and March 31.
 </td>
 </tr>
 <tr>
