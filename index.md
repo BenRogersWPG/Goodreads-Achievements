@@ -49,19 +49,19 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Choice Archive bookmark badge" title="Choice Archive" width="200"></td>
+  <td><img src="Media/Badges/choice-archive/choice-archive.webp" alt="Choice Archive bookmark badge" title="Choice Archive" width="200"></td>
   <td>Choice Archive</td>
   <td>Rediscover Goodreads Choice Awards history! Collect this achievement when you read one of these winners and nominees from years past between Jan. 1 and March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Lasting Reads bookmark badge" title="Lasting Reads" width="200"></td>
+  <td><img src="Media/Badges/lasting-reads/lasting-reads.webp" alt="Lasting Reads bookmark badge" title="Lasting Reads" width="200"></td>
   <td>Lasting Reads</td>
   <td>Collect this achievement when you read one of these popular books from the past 25 years between Jan. 1 and March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Star Selections bookmark badge" title="Star Selections" width="200"></td>
+  <td><img src="Media/Badges/star-selections/star-selections.webp" alt="Star Selections bookmark badge" title="Star Selections" width="200"></td>
   <td>Star Selections</td>
   <td>Collect this achievement when you read one of these celebrity book club picks between Jan. 1 and March 31.
 </td>
@@ -73,17 +73,15 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Celebrate Black History Month
-Reveals on 2/1/2026
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Black Heritage bookmark badge" title="Black Heritage" width="200" loading="lazy"></td>
+  <td>Black Heritage</td>
+  <td>Collect this achievement when you celebrate Black History Month by reading one of these books between Feb. 1 and March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Sealed with a kiss
-Reveals on 2/1/2026
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Swoony Stories bookmark badge" title="Swoony Stories" width="200" loading="lazy"></td>
+  <td>Swoony Stories</td>
+  <td>Celebrate the season of love! Collect this achievement when you read one of these romance books between Feb. 1 and March 31.
 </td>
 </tr>
 <tr>
@@ -123,7 +121,7 @@ Reveals on 3/1/2026
   <td>Read at least one book in the month of January</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="February Reader badge" title="February Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/february-reader-2026/february-reader-2026.webp" alt="February Reader badge" title="February Reader" width="200" loading="lazy"></td>
   <td>February Reader</td>
   <td>Read at least one book in the month of February</td>
 </tr>
