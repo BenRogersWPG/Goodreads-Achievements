@@ -67,19 +67,19 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Tale Spinners bookmark badge" title="Tale Spinners" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/tale-spinners/tale-spinners.webp" alt="Tale Spinners bookmark badge" title="Tale Spinners" width="200" loading="lazy"></td>
   <td>Tale Spinners</td>
   <td>Collect this achievement when you read a book from this collection of retellings between Jan. 15 and March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Black Heritage bookmark badge" title="Black Heritage" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/black-heritage/black-heritage.webp" alt="Black Heritage bookmark badge" title="Black Heritage" width="200" loading="lazy"></td>
   <td>Black Heritage</td>
   <td>Collect this achievement when you celebrate Black History Month by reading one of these books between Feb. 1 and March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Swoony Stories bookmark badge" title="Swoony Stories" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/swoony-stories/swoony-stories.webp" alt="Swoony Stories bookmark badge" title="Swoony Stories" width="200" loading="lazy"></td>
   <td>Swoony Stories</td>
   <td>Celebrate the season of love! Collect this achievement when you read one of these romance books between Feb. 1 and March 31.
 </td>
