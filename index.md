@@ -85,10 +85,9 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>Hint: Your reading personality awaits
-Reveals on 2/15/2026
+  <td><img src="Media/Badges/Empty/empty.webp" alt="Persona Picks bookmark badge" title="Persona Picks" width="200" loading="lazy"></td>
+  <td>Persona Picks</td>
+  <td>What's your reading personality? Collect this achievement when you read one of these featured books between Feb. 15 and March 31.
 </td>
 </tr>
 <tr>
