@@ -91,7 +91,7 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Her Story bookmark badge" title="Her Story" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/her-story-2026/her-story-2026.webp" alt="Her Story bookmark badge" title="Her Story" width="200" loading="lazy"></td>
   <td>Her Story</td>
   <td>Collect this achievement when you celebrate Women's History Month by reading one of these books between March 1 and March 31.
 </td>
