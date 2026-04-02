@@ -9,10 +9,36 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 # 📃 2026 Achievement List 📃
+## Spring Challenge (12)
+### April 1 - June 30, 2026
+
+Spring into new achievements to keep your reading year on track!
+
+|                                                     Badge                                                     |       Name        |                                                                How to get                                                                 |
+| :-----------------------------------------------------------------------------------------------------------: | :---------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|       <img src="Media/Badges/Empty/empty.png" alt="Page-Turner" width="200"/>       |    Page-Turner    |                            Collect this achievement when you finish any 2 books between April 1 - June 30, 2026.                             |
+|     <img src="Media/Badges/Empty/empty.png" alt="Speed Reader" width="200"/>      |   Speed Reader    |                            Collect this achievement when you finish any 3 books between April 1 - June 30, 2026.                             |
+|          <img src="Media/Badges/Empty/empty.png" alt="Book Boss" width="200"/>          |     Book Boss     |                            Collect this achievement when you finish any 5 books between April 1 - June 30, 2026.                             |
+| <img src="Media/Badges/Empty/empty.png" alt="Community Picks" width="200"/> |  Community Picks  | Collect this achievement when you finish one of the top-read books in a category voted for by the Goodreads community. between April 1 and June 30. |
+|     <img src="Media/Badges/Empty/empty.png" alt="Trending Books" width="200"/>     | Trending Books |           Collect this achievement when you read one of these recently trending books between April 1 and June 30.           |
+|         <img src="Media/Badges/Empty/empty.png" alt="Marathon Reader" width="200"/>          |  Marathon Reader   |               Collect this achievement when you read one of these looooong books between April 1 and June 30.                |
+|           <img src="Media/Badges/Empty/empty.png" alt="Editors' Picks" width="200"/>           |   Editors' Picks   |                     Collect this achievement when you read one of these editors' picks between April 1 and June 30.                      |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
+|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
+
+
+
+
+
 ## Winter Challenge (12)
 ### January 1 - March 31, 2026
 
 2026's opening achievement season to inspire you toward your annual goal
+
+
 |                                                     Badge                                                     |       Name        |                                                                How to get                                                                 |
 | :-----------------------------------------------------------------------------------------------------------: | :---------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |       <img src="Media/Badges/page-turner-winter/page-turner-winter.png" alt="Page-Turner" width="200"/>       |    Page-Turner    |                            Collect this achievement when you finish any 2 books between January 1 - March 31.                             |
@@ -29,7 +55,6 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 |                    <img src="Media/Badges/her-story-2026/her-story-2026.png" alt="Her Story" width="200"/>                    |      Her Story      |                                                               Collect this achievement when you celebrate Women's History Month by reading one of these books between March 1 and March 31.                                                               |
 
 
-
 ## Monthly 2026 Reading Challenge (15)
 ### January 1 - December 31, 2026
 
@@ -38,7 +63,7 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 |    <img src="Media/Badges/january-reader-2026/january-reader-2026.png" alt="January Reader" width="200"/>    |  January Reader  |                                 Read at least one book in the month of January                                  |
 |  <img src="Media/Badges/february-reader-2026/february-reader-2026.png" alt="February Reader" width="200"/>   | February Reader  |                                 Read at least one book in the month of February                                 |
 |       <img src="Media/Badges/march-reader-2026/march-reader-2026.png" alt="March Reader" width="200"/>       |   March Reader   |                                  Read at least one book in the month of March                                   |
-|       <img src="Media/Badges/Empty/empty.png" alt="April Reader" width="200"/>       |   April Reader   |                                  Read at least one book in the month of April                                   |
+|       <img src="Media/Badges/april-reader-2026/april-reader-2026.png" alt="April Reader" width="200"/>       |   April Reader   |                                  Read at least one book in the month of April                                   |
 |          <img src="Media/Badges/Empty/empty.png" alt="May Reader" width="200"/>          |    May Reader    |                                   Read at least one book in the month of May                                    |
 |        <img src="Media/Badges/Empty/empty.png" alt="June Reader" width="200"/>         |   June Reader    |                                   Read at least one book in the month of June                                   |
 |        <img src="Media/Badges/Empty/empty.png" alt="July Reader" width="200"/>         |   July Reader    |                                   Read at least one book in the month of July                                   |
