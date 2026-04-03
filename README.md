@@ -14,20 +14,20 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 
 Spring into new achievements to keep your reading year on track!
 
-|                                                     Badge                                                     |       Name        |                                                                How to get                                                                 |
-| :-----------------------------------------------------------------------------------------------------------: | :---------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|       <img src="Media/Badges/Empty/empty.png" alt="Page-Turner" width="200"/>       |    Page-Turner    |                            Collect this achievement when you finish any 2 books between April 1 - June 30, 2026.                             |
-|     <img src="Media/Badges/Empty/empty.png" alt="Speed Reader" width="200"/>      |   Speed Reader    |                            Collect this achievement when you finish any 3 books between April 1 - June 30, 2026.                             |
-|          <img src="Media/Badges/Empty/empty.png" alt="Book Boss" width="200"/>          |     Book Boss     |                            Collect this achievement when you finish any 5 books between April 1 - June 30, 2026.                             |
-| <img src="Media/Badges/Empty/empty.png" alt="Community Picks" width="200"/> |  Community Picks  | Collect this achievement when you finish one of the top-read books in a category voted for by the Goodreads community. between April 1 and June 30. |
-|     <img src="Media/Badges/Empty/empty.png" alt="Trending Books" width="200"/>     | Trending Books |           Collect this achievement when you read one of these recently trending books between April 1 and June 30.           |
-|         <img src="Media/Badges/Empty/empty.png" alt="Marathon Reader" width="200"/>          |  Marathon Reader   |               Collect this achievement when you read one of these looooong books between April 1 and June 30.                |
-|           <img src="Media/Badges/Empty/empty.png" alt="Editors' Picks" width="200"/>           |   Editors' Picks   |                     Collect this achievement when you read one of these editors' picks between April 1 and June 30.                      |
-|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
-|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
-|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
-|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
-|                    <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>                    |      Mystery      |                                                               Achievement TBA                                                             |
+|     Badge   |   Name    |   How to get    |
+| :--------------------: | :---------------: | :---------------------------------------------: |
+|   <img src="Media/Badges/Empty/empty.png" alt="Page-Turner" width="200"/>   |    Page-Turner    |   Collect this achievement when you finish any 2 books between April 1 - June 30, 2026.  |
+| <img src="Media/Badges/Empty/empty.png" alt="Speed Reader" width="200"/>  |   Speed Reader    | Collect this achievement when you finish any 3 books between April 1 - June 30, 2026.  |
+| <img src="Media/Badges/Empty/empty.png" alt="Book Boss" width="200"/> | Book Boss |  Collect this achievement when you finish any 5 books between April 1 - June 30, 2026.  |
+| <img src="Media/Badges/Empty/empty.png" alt="Community Picks" width="200"/> |  Community Picks  | Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these mystery and thriller books between April 1 and June 30. |
+| <img src="Media/Badges/Empty/empty.png" alt="Trending Books" width="200"/> | Trending Books |  Collect this achievement when you read one of these recently trending books between April 1 and June 30.  |
+|  <img src="Media/Badges/Empty/empty.png" alt="Marathon Reader" width="200"/> |  Marathon Reader   | Collect this achievement when you tackle one of these looooong books between April 1 and June 30.  |
+|  <img src="Media/Badges/Empty/empty.png" alt="Editors' Picks" width="200"/>  |   Editors' Picks   |   Collect this achievement when you read one of these editor-curated gems from the past five years between April 1 and June 30.  |
+|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Reading inception <br> *Reveals on 4/15/2026*    |
+|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Celebrating AAPI Month <br> *Reveals on 5/1/2026*    |
+|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Get ready for summer! <br> *Reveals on 5/12/2026*    |
+|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Your next escape <br> *Reveals on 5/12/2026*    |
+|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Celebrating Pride Month <br> *Reveals on 6/1/2026*                                       |
 
 
 
