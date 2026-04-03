@@ -120,43 +120,43 @@ Spring into new achievements to keep your reading year on track!
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/page-turner-winter/page-turner-winter.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td><img src="Media/Badges/page-turner-winter/page-turner-winter.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" loading="lazy"></td>
   <td>Page-Turner</td>
   <td>Collect this achievement when you finish any 2 books between January 1 - March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/speed-reader-winter/speed-reader-winter.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td><img src="Media/Badges/speed-reader-winter/speed-reader-winter.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200" loading="lazy"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish any 3 books between January 1 - March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/book-boss-winter/book-boss-winter.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td><img src="Media/Badges/book-boss-winter/book-boss-winter.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200" loading="lazy"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish any 5 books between January 1 - March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/challenge-faves-winter/challenge-faves-winter.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200"></td>
+  <td><img src="Media/Badges/challenge-faves-winter/challenge-faves-winter.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200" loading="lazy"></td>
   <td>Challenge Faves</td>
   <td>Collect this achievement when you finish one of the top-read books by 2025 Reading Challenge participants between January 1 and March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/choice-archive/choice-archive.webp" alt="Choice Archive bookmark badge" title="Choice Archive" width="200"></td>
+  <td><img src="Media/Badges/choice-archive/choice-archive.webp" alt="Choice Archive bookmark badge" title="Choice Archive" width="200" loading="lazy"></td>
   <td>Choice Archive</td>
   <td>Rediscover Goodreads Choice Awards history! Collect this achievement when you read one of these winners and nominees from years past between Jan. 1 and March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/lasting-reads/lasting-reads.webp" alt="Lasting Reads bookmark badge" title="Lasting Reads" width="200"></td>
+  <td><img src="Media/Badges/lasting-reads/lasting-reads.webp" alt="Lasting Reads bookmark badge" title="Lasting Reads" width="200" loading="lazy"></td>
   <td>Lasting Reads</td>
   <td>Collect this achievement when you read one of these popular books from the past 25 years between Jan. 1 and March 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/star-selections/star-selections.webp" alt="Star Selections bookmark badge" title="Star Selections" width="200"></td>
+  <td><img src="Media/Badges/star-selections/star-selections.webp" alt="Star Selections bookmark badge" title="Star Selections" width="200" loading="lazy"></td>
   <td>Star Selections</td>
   <td>Collect this achievement when you read one of these celebrity book club picks between Jan. 1 and March 31.
 </td>
