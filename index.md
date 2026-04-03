@@ -45,7 +45,7 @@ Spring into new achievements to keep your reading year on track!
 <tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
   <td>Community Picks</td>
-  <td>Collect this achievement when you finish one of the top-read books in a category voted for by the Goodreads community. between April 1 and June 30.
+  <td>Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these mystery and thriller books between April 1 and June 30.
 </td>
 </tr>
 <tr>
@@ -57,43 +57,48 @@ Spring into new achievements to keep your reading year on track!
 <tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="Marathon Reader bookmark badge" title="Marathon Reader" width="200"></td>
   <td>Marathon Reader</td>
-  <td>Collect this achievement when you read one of these looooong books between April 1 and June 30.
+  <td>Collect this achievement when you tackle one of these looooong books between April 1 and June 30.
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Empty/empty.webp" alt="Editors' Picks bookmark badge" title="Editors' Picks" width="200"></td>
   <td>Editors' Picks</td>
-  <td>Collect this achievement when you read one of these editors' picks between April 1 and June 30.
+  <td>Collect this achievement when you read one of these editor-curated gems from the past five years between April 1 and June 30.
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery achievement, TBA
+  <td><strong>Hint:</strong> Reading inception
+<em>Reveals on 4/15/2026</em>
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery achievement, TBA
+  <td><strong>Hint:</strong> Celebrating AAPI Month
+<em>Reveals on 5/1/2026</em>
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery achievement, TBA
+  <td><strong>Hint:</strong> Get ready for summer!
+<em>Reveals on 5/12/2026</em>
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery achievement, TBA
+  <td><strong>Hint:</strong> Your next escape
+<em>Reveals on 5/12/2026</em>
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery achievement, TBA
+  <td><strong>Hint:</strong> Celebrating Pride Month
+<em>Reveals on 6/1/2026</em>
 </td>
 </tr>
 </table>
