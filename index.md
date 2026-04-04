@@ -25,19 +25,19 @@ Spring into new achievements to keep your reading year on track!
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td><img src="Media/Badges/page-turner-spring/page-turner-spring.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
   <td>Page-Turner</td>
   <td>Collect this achievement when you finish any 2 books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td><img src="Media/Badges/speed-reader-spring/speed-reader-spring.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish any 3 books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td><img src="Media/Badges/book-boss-spring/book-boss-spring.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish any 5 books between April 1 and June 30.
 </td>
