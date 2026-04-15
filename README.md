@@ -23,7 +23,7 @@ Spring into new achievements to keep your reading year on track!
 | <img src="Media/Badges/Empty/empty.png" alt="Trending Books" width="200"/> | Trending Books |  Collect this achievement when you read one of these recently trending books between April 1 and June 30.  |
 |  <img src="Media/Badges/Empty/empty.png" alt="Marathon Reader" width="200"/> |  Marathon Reader   | Collect this achievement when you tackle one of these looooong books between April 1 and June 30.  |
 |  <img src="Media/Badges/Empty/empty.png" alt="Editors' Picks" width="200"/>  |   Editors' Picks   |   Collect this achievement when you read one of these editor-curated gems from the past five years between April 1 and June 30.  |
-|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Reading inception <br> *Reveals on 4/15/2026*    |
+|  <img src="Media/Badges/Empty/empty.png" alt="Books on Books" width="200"/>  |  Books on Books  |  Collect this achievement when you read one of these books about books between April 15 and June 30.    |
 |  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Celebrating AAPI Month <br> *Reveals on 5/1/2026*    |
 |  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Get ready for summer! <br> *Reveals on 5/12/2026*    |
 |  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Your next escape <br> *Reveals on 5/12/2026*    |
