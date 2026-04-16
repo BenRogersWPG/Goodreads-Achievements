@@ -67,7 +67,7 @@ Spring into new achievements to keep your reading year on track!
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Books on Books bookmark badge" title="Books on Books" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/books-on-books/books-on-books.webp" alt="Books on Books bookmark badge" title="Books on Books" width="200" loading="lazy"></td>
   <td>Books on Books</td>
   <td>Collect this achievement when you read one of these books about books between April 15 and June 30.
 </td>
