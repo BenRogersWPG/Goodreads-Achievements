@@ -49,19 +49,19 @@ Spring into new achievements to keep your reading year on track!
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Trending Books bookmark badge" title="Trending Books" width="200"></td>
+  <td><img src="Media/Badges/trending-books/trending-books.webp" alt="Trending Books bookmark badge" title="Trending Books" width="200"></td>
   <td>Trending Books</td>
   <td>Collect this achievement when you read one of these recently trending books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Marathon Reader bookmark badge" title="Marathon Reader" width="200"></td>
+  <td><img src="Media/Badges/marathon-reader/marathon-reader.webp" alt="Marathon Reader bookmark badge" title="Marathon Reader" width="200"></td>
   <td>Marathon Reader</td>
   <td>Collect this achievement when you tackle one of these looooong books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Editors' Picks bookmark badge" title="Editors' Picks" width="200"></td>
+  <td><img src="Media/Badges/editors-picks/editors-picks.webp" alt="Editors' Picks bookmark badge" title="Editors' Picks" width="200"></td>
   <td>Editors' Picks</td>
   <td>Collect this achievement when you read one of these editor-curated gems from the past five years between April 1 and June 30.
 </td>
