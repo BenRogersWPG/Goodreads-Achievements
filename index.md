@@ -43,7 +43,7 @@ Spring into new achievements to keep your reading year on track!
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
+  <td><img src="Media/Badges/community-picks-spring/community-picks-spring.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
   <td>Community Picks</td>
   <td>Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these mystery and thriller books between April 1 and June 30.
 </td>
