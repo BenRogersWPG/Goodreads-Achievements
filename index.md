@@ -73,10 +73,9 @@ Spring into new achievements to keep your reading year on track!
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> Celebrating AAPI Month
-<em>Reveals on 5/1/2026</em>
+  <td><img src="Media/Badges/Empty/empty.webp" alt="AAPI Heritage bookmark badge" title="AAPI Heritage" width="200" loading="lazy"></td>
+  <td>AAPI Heritage</td>
+  <td>Collect this achievement when you celebrate Asian American and Pacific Islander Heritage Month by reading one of these books between May 1 and June 30.
 </td>
 </tr>
 <tr>
@@ -228,7 +227,7 @@ Spring into new achievements to keep your reading year on track!
   <td>Read at least one book in the month of April</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="May Reader Achievement badge" title="May Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/may-reader-2026/may-reader-2026.webp" alt="May Reader Achievement badge" title="May Reader" width="200" loading="lazy"></td>
   <td>May Reader</td>
   <td>Read at least one book in the month of May</td>
 </tr>
