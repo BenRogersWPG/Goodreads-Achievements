@@ -73,7 +73,7 @@ Spring into new achievements to keep your reading year on track!
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="AAPI Heritage bookmark badge" title="AAPI Heritage" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/aapi-heritage/aapi-heritage.webp" alt="AAPI Heritage bookmark badge" title="AAPI Heritage" width="200" loading="lazy"></td>
   <td>AAPI Heritage</td>
   <td>Collect this achievement when you celebrate Asian American and Pacific Islander Heritage Month by reading one of these books between May 1 and June 30.
 </td>
