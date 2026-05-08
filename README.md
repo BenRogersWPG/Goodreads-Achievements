@@ -25,9 +25,9 @@ Spring into new achievements to keep your reading year on track!
 |  <img src="Media/Badges/editors-picks/editors-picks.png" alt="Editors' Picks" width="200"/>  |   Editors' Picks   |   Collect this achievement when you read one of these editor-curated gems from the past five years between April 1 and June 30.  |
 |  <img src="Media/Badges/books-on-books/books-on-books.png" alt="Books on Books" width="200"/>  |  Books on Books  |  Collect this achievement when you read one of these books about books between April 15 and June 30.    |
 |  <img src="Media/Badges/aapi-heritage/aapi-heritage.png" alt="AAPI Heritage" width="200"/>  |  AAPI Heritage  |  Collect this achievement when you celebrate Asian American and Pacific Islander Heritage Month by reading one of these books between May 1 and June 30.    |
-|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Get ready for summer! <br> *Reveals on 5/12/2026*    |
-|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Your next escape <br> *Reveals on 5/12/2026*    |
-|  <img src="Media/Badges/Mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Celebrating Pride Month <br> *Reveals on 6/1/2026*                                       |
+|  <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Get ready for summer! <br> *Reveals on 5/12/2026*    |
+|  <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Your next escape <br> *Reveals on 5/12/2026*    |
+|  <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Celebrating Pride Month <br> *Reveals on 6/1/2026*                                       |
 
 
 
@@ -65,16 +65,16 @@ Spring into new achievements to keep your reading year on track!
 |       <img src="Media/Badges/march-reader-2026/march-reader-2026.png" alt="March Reader" width="200"/>       |   March Reader   |                                  Read at least one book in the month of March                                   |
 |       <img src="Media/Badges/april-reader-2026/april-reader-2026.png" alt="April Reader" width="200"/>       |   April Reader   |                                  Read at least one book in the month of April                                   |
 |          <img src="Media/Badges/may-reader-2026/may-reader-2026.png" alt="May Reader" width="200"/>          |    May Reader    |                                   Read at least one book in the month of May                                    |
-|        <img src="Media/Badges/Empty/empty.png" alt="June Reader" width="200"/>         |   June Reader    |                                   Read at least one book in the month of June                                   |
-|        <img src="Media/Badges/Empty/empty.png" alt="July Reader" width="200"/>         |   July Reader    |                                   Read at least one book in the month of July                                   |
-|     <img src="Media/Badges/Empty/empty.png" alt="August Reader" width="200"/>      |  August Reader   |                                  Read at least one book in the month of August                                  |
-| <img src="Media/Badges/Empty/empty.png" alt="September Reader" width="200"/> | September Reader |                                Read at least one book in the month of September                                 |
-|    <img src="Media/Badges/Empty/empty.png" alt="October Reader" width="200"/>    |  October Reader  |                                 Read at least one book in the month of October                                  |
-|  <img src="Media/Badges/Empty/empty.png" alt="November Reader" width="200"/>   | November Reader  |                                 Read at least one book in the month of November                                 |
-|  <img src="Media/Badges/Empty/empty.png" alt="December Reader" width="200"/>   | December Reader  |                                 Read at least one book in the month of December                                 |
-|   <img src="Media/Badges/Empty/empty.png" alt="Grand Slam" width="200"/>   |    Grand Slam    |             Complete the set! Collect this achievement by finishing a book every month of the year.             |
-|    <img src="Media/Badges/Empty/empty.png" alt="Nailed It" width="200"/>     |    Nailed It     | Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 01/07/2026. |
-|   <img src="Media/Badges/Empty/empty.png" alt="Stepped Up" width="200"/>   |    Stepped Up    |     One up your best self by completing more books than last year. Eligible to collect starting 01/07/2026.      |
+|        <img src="Media/Badges/empty/empty.png" alt="June Reader" width="200"/>         |   June Reader    |                                   Read at least one book in the month of June                                   |
+|        <img src="Media/Badges/empty/empty.png" alt="July Reader" width="200"/>         |   July Reader    |                                   Read at least one book in the month of July                                   |
+|     <img src="Media/Badges/empty/empty.png" alt="August Reader" width="200"/>      |  August Reader   |                                  Read at least one book in the month of August                                  |
+| <img src="Media/Badges/empty/empty.png" alt="September Reader" width="200"/> | September Reader |                                Read at least one book in the month of September                                 |
+|    <img src="Media/Badges/empty/empty.png" alt="October Reader" width="200"/>    |  October Reader  |                                 Read at least one book in the month of October                                  |
+|  <img src="Media/Badges/empty/empty.png" alt="November Reader" width="200"/>   | November Reader  |                                 Read at least one book in the month of November                                 |
+|  <img src="Media/Badges/empty/empty.png" alt="December Reader" width="200"/>   | December Reader  |                                 Read at least one book in the month of December                                 |
+|   <img src="Media/Badges/empty/empty.png" alt="Grand Slam" width="200"/>   |    Grand Slam    |             Complete the set! Collect this achievement by finishing a book every month of the year.             |
+|    <img src="Media/Badges/empty/empty.png" alt="Nailed It" width="200"/>     |    Nailed It     | Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 01/07/2026. |
+|   <img src="Media/Badges/empty/empty.png" alt="Stepped Up" width="200"/>   |    Stepped Up    |     One up your best self by completing more books than last year. Eligible to collect starting 01/07/2026.      |
 
 <br>
 
