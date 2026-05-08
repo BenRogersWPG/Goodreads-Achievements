@@ -79,21 +79,21 @@ Spring into new achievements to keep your reading year on track!
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
   <td><strong>Hint:</strong> Get ready for summer!
 <em>Reveals on 5/12/2026</em>
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
   <td><strong>Hint:</strong> Your next escape
 <em>Reveals on 5/12/2026</em>
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
   <td><strong>Hint:</strong> Celebrating Pride Month
 <em>Reveals on 6/1/2026</em>
@@ -232,52 +232,52 @@ Spring into new achievements to keep your reading year on track!
   <td>Read at least one book in the month of May</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="June Reader Achievement badge" title="June Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="June Reader Achievement badge" title="June Reader" width="200" loading="lazy"></td>
   <td>June Reader</td>
   <td>Read at least one book in the month of June</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="July Reader Achievement badge" title="July Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="July Reader Achievement badge" title="July Reader" width="200" loading="lazy"></td>
   <td>July Reader</td>
   <td>Read at least one book in the month of July</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="August Reader Achievement badge" title="August Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="August Reader Achievement badge" title="August Reader" width="200" loading="lazy"></td>
   <td>August Reader</td>
   <td>Read at least one book in the month of August</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="September Reader Achievement badge" title="September Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="September Reader Achievement badge" title="September Reader" width="200" loading="lazy"></td>
   <td>September Reader</td>
   <td>Read at least one book in the month of September</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="October Reader Achievement badge" title="October Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="October Reader Achievement badge" title="October Reader" width="200" loading="lazy"></td>
   <td>October Reader</td>
   <td>Read at least one book in the month of October</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="November Reader Achievement badge" title="November Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="November Reader Achievement badge" title="November Reader" width="200" loading="lazy"></td>
   <td>November Reader</td>
   <td>Read at least one book in the month of November</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="December Reader Achievement badge" title="December Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="December Reader Achievement badge" title="December Reader" width="200" loading="lazy"></td>
   <td>December Reader</td>
   <td>Read at least one book in the month of December</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Grand Slam Achievement badge" title="Grand Slam" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Grand Slam Achievement badge" title="Grand Slam" width="200" loading="lazy"></td>
   <td>Grand Slam</td>
   <td>Complete the set! Collect this achievement by finishing a book every month of the year.</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Nailed It Achievement badge" title="Nailed It" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Nailed It Achievement badge" title="Nailed It" width="200" loading="lazy"></td>
   <td>Nailed It</td>
   <td>Collect this achievement by setting and reaching your reading goal. Eligible to collect starting on 01/07/2026.</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/Empty/empty.webp" alt="Stepped Up Achievement badge" title="Stepped Up" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Stepped Up Achievement badge" title="Stepped Up" width="200" loading="lazy"></td>
   <td>Stepped Up</td>
   <td>One up your best self by completing more books than last year. Eligible to collect starting 01/07/2026.</td>
 </tr>
