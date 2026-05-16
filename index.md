@@ -79,13 +79,13 @@ Spring into new achievements to keep your reading year on track!
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Summer Reading bookmark badge" title="Summer Reading" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/summer-reading/summer-reading.webp" alt="Summer Reading bookmark badge" title="Summer Reading" width="200" loading="lazy"></td>
   <td>Summer Reading</td>
   <td>Collect this achievement when you kick off summer with one of these seasonal reads between May 12 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Escapist Reads bookmark badge" title="Escapist Reads" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/escapist-reads/escapist-reads.webp" alt="Escapist Reads bookmark badge" title="Escapist Reads" width="200" loading="lazy"></td>
   <td>Escapist Reads</td>
   <td>Collect this achievement when you finish one of these escapist reads between May 12 and June 30.
 </td>
