@@ -25,8 +25,8 @@ Spring into new achievements to keep your reading year on track!
 |  <img src="Media/Badges/editors-picks/editors-picks.png" alt="Editors' Picks" width="200"/>  |   Editors' Picks   |   Collect this achievement when you read one of these editor-curated gems from the past five years between April 1 and June 30.  |
 |  <img src="Media/Badges/books-on-books/books-on-books.png" alt="Books on Books" width="200"/>  |  Books on Books  |  Collect this achievement when you read one of these books about books between April 15 and June 30.    |
 |  <img src="Media/Badges/aapi-heritage/aapi-heritage.png" alt="AAPI Heritage" width="200"/>  |  AAPI Heritage  |  Collect this achievement when you celebrate Asian American and Pacific Islander Heritage Month by reading one of these books between May 1 and June 30.    |
-|  <img src="Media/Badges/empty/empty.png" alt="Summer Reading" width="200"/>  |  Summer Reading  |  Collect this achievement when you kick off summer with one of these seasonal reads between May 12 and June 30.    |
-|  <img src="Media/Badges/empty/empty.png" alt="Escapist Reads" width="200"/>  |  Escapist Reads  |  Collect this achievement when you finish one of these escapist reads between May 12 and June 30.    |
+|  <img src="Media/Badges/summer-reading/summer-reading.png" alt="Summer Reading" width="200"/>  |  Summer Reading  |  Collect this achievement when you kick off summer with one of these seasonal reads between May 12 and June 30.    |
+|  <img src="Media/Badges/escapist-reads/escapist-reads.png" alt="Escapist Reads" width="200"/>  |  Escapist Reads  |  Collect this achievement when you finish one of these escapist reads between May 12 and June 30.    |
 |  <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  **Hint:** Celebrating Pride Month <br> *Reveals on 6/1/2026*                                       |
 
 
