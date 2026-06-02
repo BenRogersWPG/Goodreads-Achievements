@@ -91,10 +91,9 @@ Spring into new achievements to keep your reading year on track!
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> Celebrating Pride Month
-<em>Reveals on 6/1/2026</em>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Pride Picks bookmark badge" title="Pride Picks" width="200" loading="lazy"></td>
+  <td>Pride Picks</td>
+  <td>Collect this achievement when you celebrate Pride Month by reading one of these books between June 1 and June 30.
 </td>
 </tr>
 </table>
