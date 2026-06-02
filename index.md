@@ -229,7 +229,7 @@ Spring into new achievements to keep your reading year on track!
   <td>Read at least one book in the month of May</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="June Reader Achievement badge" title="June Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/june-reader-2026/june-reader-2026.webp" alt="June Reader Achievement badge" title="June Reader" width="200" loading="lazy"></td>
   <td>June Reader</td>
   <td>Read at least one book in the month of June</td>
 </tr>
