@@ -9,6 +9,28 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 # 📃 2026 Achievement List 📃
+## Summer Challenge (11)
+### July 1 - September 14, 2026
+
+Escape into summer reads and unlock new achievements.
+
+|     Badge   |   Name    |   How to get    |
+| :--------------------: | :---------------: | :---------------------------------------------: |
+|   <img src="Media/Badges/empty/empty.png" alt="Page-Turner" width="200"/>   |    Page-Turner    |   Collect this achievement when you finish any two books between July 1 and September 14.  |
+| <img src="Media/Badges/empty/empty.png" alt="Speed Reader" width="200"/>  |   Speed Reader    | Collect this achievement when you finish any three books between July 1 and September 14.  |
+| <img src="Media/Badges/empty/empty.png" alt="Book Boss" width="200"/> | Book Boss |  Collect this achievement when you finish any five books between July 1 and September 14.  |
+| <img src="Media/Badges/community-picks-summer/community-picks-summer.png" alt="Community Picks" width="200"/> |  Community Picks  | Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these throwback books between July 1 and September 14. |
+| <img src="Media/Badges/challenge-faves-summer/challenge-faves-summer.png" alt="Challenge Faves" width="200"/> | Challenge Faves |  Collect this achievement when you read one of these recently trending most-read books between July 1 and September 14.  |
+|  <img src="Media/Badges/empty/empty.png" alt="Chart Toppers" width="200"/> |  Chart Toppers   | Collect this achievement when you read one of these hit new books from the first half of the year between July 1 and Sept. 14.  |
+|  <img src="Media/Badges/empty/empty.png" alt="Staff Shelves" width="200"/>  |   Staff Shelves   |   Collect this achievement when you read one of our staff recommendations between July 1 and Sept. 14.  |
+|  <img src="Media/Badges/empty/empty.png" alt="Worlds Away" width="200"/>  |  Worlds Away  |  Collect this achievement when you read one of these popular fantasy and sci-fi books between July 1 and Sept. 14.    |
+|  <img src="Media/Badges/empty/empty.png" alt="Fact or Fiction" width="200"/>  |  Fact or Fiction  |  The past awaits! Collect this achievement when you read one of these historical fiction or nonfiction books between July 1 and Sept. 14.    |
+|  <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  It's in the name! <br>*Reveals on July 15, 2026*    |
+|  <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  Summer's not over yet! <br>*Reveals on August 1, 2026*    |
+
+
+
+
 ## Spring Challenge (12)
 ### April 1 - June 30, 2026
 
@@ -66,7 +88,7 @@ Spring into new achievements to keep your reading year on track!
 |       <img src="Media/Badges/april-reader-2026/april-reader-2026.png" alt="April Reader" width="200"/>       |   April Reader   |                                  Read at least one book in the month of April                                   |
 |          <img src="Media/Badges/may-reader-2026/may-reader-2026.png" alt="May Reader" width="200"/>          |    May Reader    |                                   Read at least one book in the month of May                                    |
 |        <img src="Media/Badges/june-reader-2026/june-reader-2026.png" alt="June Reader" width="200"/>         |   June Reader    |                                   Read at least one book in the month of June                                   |
-|        <img src="Media/Badges/empty/empty.png" alt="July Reader" width="200"/>         |   July Reader    |                                   Read at least one book in the month of July                                   |
+|        <img src="Media/Badges/july-reader-2026/july-reader-2026.png" alt="July Reader" width="200"/>         |   July Reader    |                                   Read at least one book in the month of July                                   |
 |     <img src="Media/Badges/empty/empty.png" alt="August Reader" width="200"/>      |  August Reader   |                                  Read at least one book in the month of August                                  |
 | <img src="Media/Badges/empty/empty.png" alt="September Reader" width="200"/> | September Reader |                                Read at least one book in the month of September                                 |
 |    <img src="Media/Badges/empty/empty.png" alt="October Reader" width="200"/>    |  October Reader  |                                 Read at least one book in the month of October                                  |
