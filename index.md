@@ -10,6 +10,90 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 <h2>📃 2026 Achievement List 📃</h2>
+<h3>Summer Challenge (12)</h3>
+<strong>July 1 - September 14, 2026</strong>
+
+Escape into summer reads and unlock new achievements.
+
+<br>
+
+<div class="table-wrapper" style="overflow-x: auto;">
+<table>
+<tr>
+  <th>Badge</th>
+  <th>Name</th>
+  <th>How to get</th>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" loading="lazy"></td>
+  <td>Page-Turner</td>
+  <td>Collect this achievement when you finish any two books between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200" loading="lazy"></td>
+  <td>Speed Reader</td>
+  <td>Collect this achievement when you finish any three books between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200" loading="lazy"></td>
+  <td>Book Boss</td>
+  <td>Collect this achievement when you finish any five books between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/community-picks-summer/community-picks-summer.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200" loading="lazy"></td>
+  <td>Community Picks</td>
+  <td>Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these throwback books between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/challenge-faves-summer/challenge-faves-summer.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200" loading="lazy"></td>
+  <td>Challenge Faves</td>
+  <td>Collect this achievement when you read one of these recently trending most-read books between July 1 and September 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Chart Toppers bookmark badge" title="Chart Toppers" width="200" loading="lazy"></td>
+  <td>Chart Toppers</td>
+  <td>Collect this achievement when you read one of these hit new books from the first half of the year between July 1 and Sept. 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Staff Shelves bookmark badge" title="Staff Shelves" width="200" loading="lazy"></td>
+  <td>Staff Shelves</td>
+  <td>Collect this achievement when you read one of our staff recommendations between July 1 and Sept. 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Worlds Away bookmark badge" title="Worlds Away" width="200" loading="lazy"></td>
+  <td>Worlds Away</td>
+  <td>Collect this achievement when you read one of these popular fantasy and sci-fi books between July 1 and Sept. 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Fact or Fiction bookmark badge" title="Fact or Fiction" width="200" loading="lazy"></td>
+  <td>Fact or Fiction</td>
+  <td>The past awaits! Collect this achievement when you read one of these historical fiction or nonfiction books between July 1 and Sept. 14.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>It's in the name! <br><em>Reveals on July 15, 2026</em>
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
+  <td>Mystery</td>
+  <td>Summer's not over yet! <br><em>Reveals on August 1, 2026</em>
+</td>
+</tr>
+</table>
+</div>
+
+
 <h3>Spring Challenge (12)</h3>
 <strong>April 1 - June 30, 2026</strong>
 
@@ -234,7 +318,7 @@ Spring into new achievements to keep your reading year on track!
   <td>Read at least one book in the month of June</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="July Reader Achievement badge" title="July Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/july-reader-2026/july-reader-2026.webp" alt="July Reader Achievement badge" title="July Reader" width="200" loading="lazy"></td>
   <td>July Reader</td>
   <td>Read at least one book in the month of July</td>
 </tr>
