@@ -25,37 +25,37 @@ Escape into summer reads and unlock new achievements.
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/page-turner-summer/page-turner-summer.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/page-turner-summer/page-turner-summer.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
   <td>Page-Turner</td>
   <td>Collect this achievement when you finish any two books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/speed-runner-summer/speed-runner-summer.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/speed-runner-summer/speed-runner-summer.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish any three books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/book-boss-summer/book-boss-summer.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/book-boss-summer/book-boss-summer.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish any five books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/community-picks-summer/community-picks-summer.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/community-picks-summer/community-picks-summer.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
   <td>Community Picks</td>
   <td>Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these throwback books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/challenge-faves-summer/challenge-faves-summer.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/challenge-faves-summer/challenge-faves-summer.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200"></td>
   <td>Challenge Faves</td>
   <td>Collect this achievement when you read one of these recently trending most-read books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Chart Toppers bookmark badge" title="Chart Toppers" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Chart Toppers bookmark badge" title="Chart Toppers" width="200"></td>
   <td>Chart Toppers</td>
   <td>Collect this achievement when you read one of these hit new books from the first half of the year between July 1 and Sept. 14.
 </td>
@@ -109,43 +109,43 @@ Spring into new achievements to keep your reading year on track!
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/page-turner-spring/page-turner-spring.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td><img src="Media/Badges/page-turner-spring/page-turner-spring.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" loading="lazy"></td>
   <td>Page-Turner</td>
   <td>Collect this achievement when you finish any 2 books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/speed-reader-spring/speed-reader-spring.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td><img src="Media/Badges/speed-reader-spring/speed-reader-spring.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200" loading="lazy"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish any 3 books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/book-boss-spring/book-boss-spring.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td><img src="Media/Badges/book-boss-spring/book-boss-spring.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200" loading="lazy"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish any 5 books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/community-picks-spring/community-picks-spring.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
+  <td><img src="Media/Badges/community-picks-spring/community-picks-spring.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200" loading="lazy"></td>
   <td>Community Picks</td>
   <td>Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these mystery and thriller books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/trending-books/trending-books.webp" alt="Trending Books bookmark badge" title="Trending Books" width="200"></td>
+  <td><img src="Media/Badges/trending-books/trending-books.webp" alt="Trending Books bookmark badge" title="Trending Books" width="200" loading="lazy"></td>
   <td>Trending Books</td>
   <td>Collect this achievement when you read one of these recently trending books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/marathon-reader/marathon-reader.webp" alt="Marathon Reader bookmark badge" title="Marathon Reader" width="200"></td>
+  <td><img src="Media/Badges/marathon-reader/marathon-reader.webp" alt="Marathon Reader bookmark badge" title="Marathon Reader" width="200" loading="lazy"></td>
   <td>Marathon Reader</td>
   <td>Collect this achievement when you tackle one of these looooong books between April 1 and June 30.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/editors-picks/editors-picks.webp" alt="Editors' Picks bookmark badge" title="Editors' Picks" width="200"></td>
+  <td><img src="Media/Badges/editors-picks/editors-picks.webp" alt="Editors' Picks bookmark badge" title="Editors' Picks" width="200" loading="lazy"></td>
   <td>Editors' Picks</td>
   <td>Collect this achievement when you read one of these editor-curated gems from the past five years between April 1 and June 30.
 </td>
