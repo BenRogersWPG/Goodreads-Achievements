@@ -16,9 +16,9 @@ Escape into summer reads and unlock new achievements.
 
 |     Badge   |   Name    |   How to get    |
 | :--------------------: | :---------------: | :---------------------------------------------: |
-|   <img src="Media/Badges/empty/empty.png" alt="Page-Turner" width="200"/>   |    Page-Turner    |   Collect this achievement when you finish any two books between July 1 and September 14.  |
-| <img src="Media/Badges/empty/empty.png" alt="Speed Reader" width="200"/>  |   Speed Reader    | Collect this achievement when you finish any three books between July 1 and September 14.  |
-| <img src="Media/Badges/empty/empty.png" alt="Book Boss" width="200"/> | Book Boss |  Collect this achievement when you finish any five books between July 1 and September 14.  |
+|   <img src="Media/Badges/page-turner-summer/page-turner-summer.png" alt="Page-Turner" width="200"/>   |    Page-Turner    |   Collect this achievement when you finish any two books between July 1 and September 14.  |
+| <img src="Media/Badges/speed-runner-summer/speed-runner-summer.png" alt="Speed Reader" width="200"/>  |   Speed Reader    | Collect this achievement when you finish any three books between July 1 and September 14.  |
+| <img src="Media/Badges/book-boss-summer/book-boss-summer.png" alt="Book Boss" width="200"/> | Book Boss |  Collect this achievement when you finish any five books between July 1 and September 14.  |
 | <img src="Media/Badges/community-picks-summer/community-picks-summer.png" alt="Community Picks" width="200"/> |  Community Picks  | Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these throwback books between July 1 and September 14. |
 | <img src="Media/Badges/challenge-faves-summer/challenge-faves-summer.png" alt="Challenge Faves" width="200"/> | Challenge Faves |  Collect this achievement when you read one of these recently trending most-read books between July 1 and September 14.  |
 |  <img src="Media/Badges/empty/empty.png" alt="Chart Toppers" width="200"/> |  Chart Toppers   | Collect this achievement when you read one of these hit new books from the first half of the year between July 1 and Sept. 14.  |
