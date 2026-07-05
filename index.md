@@ -55,19 +55,19 @@ Escape into summer reads and unlock new achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Chart Toppers bookmark badge" title="Chart Toppers" width="200"></td>
+  <td><img src="Media/Badges/chart-toppers-summer/chart-toppers-summer.webp" alt="Chart Toppers bookmark badge" title="Chart Toppers" width="200"></td>
   <td>Chart Toppers</td>
   <td>Collect this achievement when you read one of these hit new books from the first half of the year between July 1 and Sept. 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Staff Shelves bookmark badge" title="Staff Shelves" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/staff-shelves-summer/staff-shelves-summer.webp" alt="Staff Shelves bookmark badge" title="Staff Shelves" width="200" loading="lazy"></td>
   <td>Staff Shelves</td>
   <td>Collect this achievement when you read one of our staff recommendations between July 1 and Sept. 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Worlds Away bookmark badge" title="Worlds Away" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/worlds-away-summer/worlds-away-summer.webp" alt="Worlds Away bookmark badge" title="Worlds Away" width="200" loading="lazy"></td>
   <td>Worlds Away</td>
   <td>Collect this achievement when you read one of these popular fantasy and sci-fi books between July 1 and Sept. 14.
 </td>
