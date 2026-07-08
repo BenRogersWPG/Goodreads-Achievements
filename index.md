@@ -73,7 +73,7 @@ Escape into summer reads and unlock new achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Fact or Fiction bookmark badge" title="Fact or Fiction" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/fact-or-fiction-summer/fact-or-fiction-summer.webp" alt="Fact or Fiction bookmark badge" title="Fact or Fiction" width="200" loading="lazy"></td>
   <td>Fact or Fiction</td>
   <td>The past awaits! Collect this achievement when you read one of these historical fiction or nonfiction books between July 1 and Sept. 14.
 </td>
