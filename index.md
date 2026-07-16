@@ -79,7 +79,7 @@ Escape into summer reads and unlock new achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Literally Summer bookmark badge" title="Literally Summer" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/literally-summer/literally-summer.webp" alt="Literally Summer bookmark badge" title="Literally Summer" width="200" loading="lazy"></td>
   <td>Literally Summer</td>
   <td>Collect this achievement when you read one of these books with "summer" in the title between July 15 and Sept. 14.
 </td>
