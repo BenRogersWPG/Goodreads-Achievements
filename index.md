@@ -79,9 +79,9 @@ Escape into summer reads and unlock new achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td>It's in the name! <br><em>Reveals on July 15, 2026</em>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Literally Summer bookmark badge" title="Literally Summer" width="200" loading="lazy"></td>
+  <td>Literally Summer</td>
+  <td>Collect this achievement when you read one of these books with "summer" in the title between July 15 and Sept. 14.
 </td>
 </tr>
 <tr>
