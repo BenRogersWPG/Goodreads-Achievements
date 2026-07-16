@@ -25,7 +25,7 @@ Escape into summer reads and unlock new achievements.
 |  <img src="Media/Badges/staff-shelves-summer/staff-shelves-summer.png" alt="Staff Shelves" width="200"/>  |   Staff Shelves   |   Collect this achievement when you read one of our staff recommendations between July 1 and Sept. 14.  |
 |  <img src="Media/Badges/worlds-away-summer/worlds-away-summer.png" alt="Worlds Away" width="200"/>  |  Worlds Away  |  Collect this achievement when you read one of these popular fantasy and sci-fi books between July 1 and Sept. 14.    |
 |  <img src="Media/Badges/fact-or-fiction-summer/fact-or-fiction-summer.png" alt="Fact or Fiction" width="200"/>  |  Fact or Fiction  |  The past awaits! Collect this achievement when you read one of these historical fiction or nonfiction books between July 1 and Sept. 14.    |
-|  <img src="Media/Badges/empty/empty.png" alt="Literally Summer" width="200"/>  |  Literally Summer  |  Collect this achievement when you read one of these books with "summer" in the title between July 15 and Sept. 14.    |
+|  <img src="Media/Badges/literally-summer/literally-summer.png" alt="Literally Summer" width="200"/>  |  Literally Summer  |  Collect this achievement when you read one of these books with "summer" in the title between July 15 and Sept. 14.    |
 |  <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/>  |  Mystery  |  Summer's not over yet! <br>*Reveals on August 1, 2026*    |
 
 
