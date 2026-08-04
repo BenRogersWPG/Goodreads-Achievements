@@ -26,7 +26,7 @@ Escape into summer reads and unlock new achievements.
 |  <img src="Media/Badges/worlds-away-summer/worlds-away-summer.png" alt="Worlds Away" width="200"/>  |  Worlds Away  |  Collect this achievement when you read one of these popular fantasy and sci-fi books between July 1 and Sept. 14.    |
 |  <img src="Media/Badges/fact-or-fiction-summer/fact-or-fiction-summer.png" alt="Fact or Fiction" width="200"/>  |  Fact or Fiction  |  The past awaits! Collect this achievement when you read one of these historical fiction or nonfiction books between July 1 and Sept. 14.    |
 |  <img src="Media/Badges/literally-summer/literally-summer.png" alt="Literally Summer" width="200"/>  |  Literally Summer  |  Collect this achievement when you read one of these books with "summer" in the title between July 15 and Sept. 14.    |
-|  <img src="Media/Badges/empty/empty.png" alt="Summer Encore" width="200"/>  |  Summer Encore  |  Collect this achievement when you read a new summer book between Aug. 1 and Sept. 14.    |
+|  <img src="Media/Badges/summer-encore/summer-encore.png" alt="Summer Encore" width="200"/>  |  Summer Encore  |  Collect this achievement when you read a new summer book between Aug. 1 and Sept. 14.    |
 
 
 
