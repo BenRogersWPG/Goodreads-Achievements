@@ -85,7 +85,7 @@ Escape into summer reads and unlock new achievements.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Summer Encore bookmark badge" title="Summer Encore" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/summer-encore/summer-encore.webp" alt="Summer Encore bookmark badge" title="Summer Encore" width="200" loading="lazy"></td>
   <td>Summer Encore</td>
   <td>Collect this achievement when you read a new summer book between Aug. 1 and Sept. 14.
 </td>
