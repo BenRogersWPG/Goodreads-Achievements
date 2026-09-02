@@ -328,7 +328,7 @@ Spring into new achievements to keep your reading year on track!
   <td>Read at least one book in the month of August</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="September Reader Achievement badge" title="September Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/september-reader-2026/september-reader-2026.webp" alt="September Reader Achievement badge" title="September Reader" width="200" loading="lazy"></td>
   <td>September Reader</td>
   <td>Read at least one book in the month of September</td>
 </tr>
