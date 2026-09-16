@@ -9,6 +9,28 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 # 📃 2026 Achievement List 📃
+## Fall Challenge (11)
+### September 15 - December 31, 2026
+
+Fall into new achievements and end your reading year on a high note.
+
+|     Badge   |   Name    |   How to get    |
+| :--------------------: | :---------------: | :---------------------------------------------: |
+|   <img src="Media/Badges/empty/empty.png" alt="Page-Turner" width="200"/>   |    Page-Turner    |   Collect this achievement when you finish any two books between September 15 and December 31.  |
+| <img src="Media/Badges/empty/empty.png" alt="Speed Reader" width="200"/>  |   Speed Reader    | Collect this achievement when you finish any three books between September 15 and December 31.  |
+| <img src="Media/Badges/empty/empty.png" alt="Book Boss" width="200"/> | Book Boss |  Collect this achievement when you finish any five books between September 15 and December 31.  |
+| <img src="Media/Badges/empty/empty.png" alt="Oprah's Picks" width="200"/> |  Oprah's Picks  | Celebrate 30 years of Oprah's Book Club! Join in and collect the official anniversary achievement when you read one of these picks between Sept. 15 and Dec. 31. Presented by Oprah's Book Club. |
+| <img src="Media/Badges/empty/empty.png" alt="Hispanic Heritage" width="200"/> |  Hispanic Heritage  | Collect this achievement when you read one of these books for Hispanic Heritage Month between Sept. 15 and Dec. 31. |
+| <img src="Media/Badges/empty/empty.png" alt="Decade of Reads" width="200"/> |  Decade of Reads  | Collect this achievement when you read one of these popular books from the past 10 years between Sept. 15 and Dec. 31. |
+| <img src="Media/Badges/empty/empty.png" alt="Spellbound" width="200"/> |  Spellbound  | Collect this achievement when you read one of these witchy books between Sept. 15 and Dec. 31. |
+| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | Mystery TBA. |
+| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | Mystery TBA. |
+| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | Mystery TBA. |
+| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | Mystery TBA. |
+
+
+
+
 ## Summer Challenge (11)
 ### July 1 - September 14, 2026
 
