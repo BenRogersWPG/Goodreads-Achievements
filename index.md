@@ -10,6 +10,90 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 <h2>📃 2026 Achievement List 📃</h2>
+<h3>Fall Challenge (12)</h3>
+<strong>September 15 - December 31, 2026</strong>
+
+Fall into new achievements and end your reading year on a high note.
+
+<br>
+
+<div class="table-wrapper" style="overflow-x: auto;">
+<table>
+<tr>
+  <th>Badge</th>
+  <th>Name</th>
+  <th>How to get</th>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td>Page-Turner</td>
+  <td>Collect this achievement when you finish any two books between September 15 and December 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td>Speed Reader</td>
+  <td>Collect this achievement when you finish any three books between September 15 and December 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td>Book Boss</td>
+  <td>Collect this achievement when you finish any five books between September 15 and December 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Oprah's Picks bookmark badge" title="Oprah's Picks" width="200"></td>
+  <td>Oprah's Picks</td>
+  <td>Celebrate 30 years of Oprah's Book Club! Join in and collect the official anniversary achievement when you read one of these picks between Sept. 15 and Dec. 31. Presented by Oprah's Book Club.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Hispanic Heritage bookmark badge" title="Hispanic Heritage" width="200"></td>
+  <td>Hispanic Heritage</td>
+  <td>Collect this achievement when you read one of these books for Hispanic Heritage Month between Sept. 15 and Dec. 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Decade of Reads bookmark badge" title="Decade of Reads" width="200"></td>
+  <td>Decade of Reads</td>
+  <td>Collect this achievement when you read one of these popular books from the past 10 years between Sept. 15 and Dec. 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Spellbound bookmark badge" title="Spellbound" width="200"></td>
+  <td>Spellbound</td>
+  <td>Collect this achievement when you read one of these witchy books between Sept. 15 and Dec. 31.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200"></td>
+  <td>Mystery</td>
+  <td>Mystery TBA.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200"></td>
+  <td>Mystery</td>
+  <td>Mystery TBA.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200"></td>
+  <td>Mystery</td>
+  <td>Mystery TBA.
+</td>
+</tr>
+<tr>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200"></td>
+  <td>Mystery</td>
+  <td>Mystery TBA.
+</td>
+</tr>
+</table>
+</div>
+
+
 <h3>Summer Challenge (12)</h3>
 <strong>July 1 - September 14, 2026</strong>
 
