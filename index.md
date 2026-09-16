@@ -67,25 +67,25 @@ Fall into new achievements and end your reading year on a high note.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200"></td>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
   <td>Mystery TBA.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200"></td>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
   <td>Mystery TBA.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200"></td>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
   <td>Mystery TBA.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200"></td>
+  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
   <td>Mystery TBA.
 </td>
@@ -109,37 +109,37 @@ Escape into summer reads and unlock new achievements.
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/page-turner-summer/page-turner-summer.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td><img src="Media/Badges/page-turner-summer/page-turner-summer.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high" loading="lazy"></td>
   <td>Page-Turner</td>
   <td>Collect this achievement when you finish any two books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/speed-runner-summer/speed-runner-summer.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td><img src="Media/Badges/speed-runner-summer/speed-runner-summer.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200" loading="lazy"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish any three books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/book-boss-summer/book-boss-summer.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td><img src="Media/Badges/book-boss-summer/book-boss-summer.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200" loading="lazy"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish any five books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/community-picks-summer/community-picks-summer.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200"></td>
+  <td><img src="Media/Badges/community-picks-summer/community-picks-summer.webp" alt="Community Picks bookmark badge" title="Community Picks" width="200" loading="lazy"></td>
   <td>Community Picks</td>
   <td>Your fellow Goodreaders voted for this one across our social media! Collect this achievement when you read one of these throwback books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/challenge-faves-summer/challenge-faves-summer.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200"></td>
+  <td><img src="Media/Badges/challenge-faves-summer/challenge-faves-summer.webp" alt="Challenge Faves bookmark badge" title="Challenge Faves" width="200" loading="lazy"></td>
   <td>Challenge Faves</td>
   <td>Collect this achievement when you read one of these recently trending most-read books between July 1 and September 14.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/chart-toppers-summer/chart-toppers-summer.webp" alt="Chart Toppers bookmark badge" title="Chart Toppers" width="200"></td>
+  <td><img src="Media/Badges/chart-toppers-summer/chart-toppers-summer.webp" alt="Chart Toppers bookmark badge" title="Chart Toppers" width="200" loading="lazy"></td>
   <td>Chart Toppers</td>
   <td>Collect this achievement when you read one of these hit new books from the first half of the year between July 1 and Sept. 14.
 </td>
