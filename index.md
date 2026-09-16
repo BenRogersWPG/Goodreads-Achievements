@@ -25,19 +25,19 @@ Fall into new achievements and end your reading year on a high note.
   <th>How to get</th>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
+  <td><img src="Media/Badges/page-turner-fall-2026/page-turner-fall-2026.webp" alt="Page-Turner bookmark badge" title="Page-Turner" width="200" fetchpriority="high"></td>
   <td>Page-Turner</td>
   <td>Collect this achievement when you finish any two books between September 15 and December 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
+  <td><img src="Media/Badges/speed-reader-fall-2026/speed-reader-fall-2026.webp" alt="Speed Reader bookmark badge" title="Speed Reader" width="200"></td>
   <td>Speed Reader</td>
   <td>Collect this achievement when you finish any three books between September 15 and December 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
+  <td><img src="Media/Badges/book-boss-fall-2026/book-boss-fall-2026.webp" alt="Book Boss bookmark badge" title="Book Boss" width="200"></td>
   <td>Book Boss</td>
   <td>Collect this achievement when you finish any five books between September 15 and December 31.
 </td>
