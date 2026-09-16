@@ -10,7 +10,7 @@ This guide will help you get your Goodreads and Kindle achievements, with an ove
 <br>
 
 <h2>📃 2026 Achievement List 📃</h2>
-<h3>Fall Challenge (12)</h3>
+<h3>Fall Challenge (11)</h3>
 <strong>September 15 - December 31, 2026</strong>
 
 Fall into new achievements and end your reading year on a high note.
@@ -94,7 +94,7 @@ Fall into new achievements and end your reading year on a high note.
 </div>
 
 
-<h3>Summer Challenge (12)</h3>
+<h3>Summer Challenge (11)</h3>
 <strong>July 1 - September 14, 2026</strong>
 
 Escape into summer reads and unlock new achievements.
