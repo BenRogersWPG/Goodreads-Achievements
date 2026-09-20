@@ -69,25 +69,29 @@ Fall into new achievements and end your reading year on a high note.
 <tr>
   <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery TBA.
+  <td><strong>Hint:</strong> Read at your own risk.
+<br><em>Reveals on October 1, 2026</em>
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery TBA.
+  <td><strong>Hint:</strong> No jump scares here.
+<br><em>Reveals on October 1, 2026</em>
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery TBA.
+  <td><strong>Hint:</strong> Celebrating heritage!
+<br><em>Reveals on November 1, 2026</em>
 </td>
 </tr>
 <tr>
   <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
   <td>Mystery</td>
-  <td>Mystery TBA.
+  <td><strong>Hint:</strong> And the winner is...
+<br><em>Reveals on November 10, 2026</em>
 </td>
 </tr>
 </table>
