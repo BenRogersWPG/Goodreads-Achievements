@@ -23,10 +23,10 @@ Fall into new achievements and end your reading year on a high note.
 | <img src="Media/Badges/empty/empty.png" alt="Hispanic Heritage" width="200"/> |  Hispanic Heritage  | Collect this achievement when you read one of these books for Hispanic Heritage Month between Sept. 15 and Dec. 31. |
 | <img src="Media/Badges/empty/empty.png" alt="Decade of Reads" width="200"/> |  Decade of Reads  | Collect this achievement when you read one of these popular books from the past 10 years between Sept. 15 and Dec. 31. |
 | <img src="Media/Badges/empty/empty.png" alt="Spellbound" width="200"/> |  Spellbound  | Collect this achievement when you read one of these witchy books between Sept. 15 and Dec. 31. |
-| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | Mystery TBA. |
-| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | Mystery TBA. |
-| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | Mystery TBA. |
-| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | Mystery TBA. |
+| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> Read at your own risk. <br><em>Reveals on October 1, 2026</em> |
+| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> No jump scares here. <br><em>Reveals on October 1, 2026</em> |
+| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> Celebrating heritage! <br><em>Reveals on November 1, 2026</em> |
+| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> And the winner is... <br><em>Reveals on November 10, 2026</em> |
 
 
 
