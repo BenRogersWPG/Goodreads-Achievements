@@ -43,7 +43,7 @@ Fall into new achievements and end your reading year on a high note.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Oprah's Picks bookmark badge" title="Oprah's Picks" width="200"></td>
+  <td><img src="Media/Badges/oprahs-picks/oprahs-picks-empty.webp" alt="Oprah's Picks bookmark badge" title="Oprah's Picks" width="200"></td>
   <td>Oprah's Picks</td>
   <td>Celebrate 30 years of Oprah's Book Club! Join in and collect the official anniversary achievement when you read one of these picks between Sept. 15 and Dec. 31. Presented by Oprah's Book Club.
 </td>
