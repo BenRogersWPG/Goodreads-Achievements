@@ -49,7 +49,7 @@ Fall into new achievements and end your reading year on a high note.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/hispanic-heritage/hispanic-heritage.webp" alt="Hispanic Heritage bookmark badge" title="Hispanic Heritage" width="200"></td>
+  <td><img src="Media/Badges/hispanic-heritage-2026/hispanic-heritage.webp" alt="Hispanic Heritage bookmark badge" title="Hispanic Heritage" width="200"></td>
   <td>Hispanic Heritage</td>
   <td>Collect this achievement when you read one of these books for Hispanic Heritage Month between Sept. 15 and Dec. 31.
 </td>
