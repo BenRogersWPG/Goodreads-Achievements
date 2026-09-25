@@ -55,13 +55,13 @@ Fall into new achievements and end your reading year on a high note.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Decade of Reads bookmark badge" title="Decade of Reads" width="200"></td>
+  <td><img src="Media/Badges/decade-of-reads/decade-of-reads.webp" alt="Decade of Reads bookmark badge" title="Decade of Reads" width="200"></td>
   <td>Decade of Reads</td>
   <td>Collect this achievement when you read one of these popular books from the past 10 years between Sept. 15 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Spellbound bookmark badge" title="Spellbound" width="200"></td>
+  <td><img src="Media/Badges/spellbound/spellbound.webp" alt="Spellbound bookmark badge" title="Spellbound" width="200"></td>
   <td>Spellbound</td>
   <td>Collect this achievement when you read one of these witchy books between Sept. 15 and Dec. 31.
 </td>
