@@ -67,17 +67,15 @@ Fall into new achievements and end your reading year on a high note.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> Read at your own risk.
-<br><em>Reveals on October 1, 2026</em>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Spine Tinglers bookmark badge" title="Spine Tinglers" width="200" loading="lazy"></td>
+  <td>Spine Tinglers</td>
+  <td>Collect this achievement when you read one of these spooky-season horror books between Oct. 1 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> No jump scares here.
-<br><em>Reveals on October 1, 2026</em>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Heart-Warmers bookmark badge" title="Heart-Warmers" width="200" loading="lazy"></td>
+  <td>Heart-Warmers</td>
+  <td>Collect this achievement when you read one of these cozy, feel-good books between Oct. 1 and Dec. 31.
 </td>
 </tr>
 <tr>
@@ -421,7 +419,7 @@ Spring into new achievements to keep your reading year on track!
   <td>Read at least one book in the month of September</td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="October Reader Achievement badge" title="October Reader" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/october-reader-2026/october-reader-2026.webp" alt="October Reader Achievement badge" title="October Reader" width="200" loading="lazy"></td>
   <td>October Reader</td>
   <td>Read at least one book in the month of October</td>
 </tr>
