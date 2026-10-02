@@ -23,8 +23,8 @@ Fall into new achievements and end your reading year on a high note.
 | <img src="Media/Badges/hispanic-heritage-2026/hispanic-heritage.png" alt="Hispanic Heritage" width="200"/> |  Hispanic Heritage  | Collect this achievement when you read one of these books for Hispanic Heritage Month between Sept. 15 and Dec. 31. |
 | <img src="Media/Badges/decade-of-reads/decade-of-reads.png" alt="Decade of Reads" width="200"/> |  Decade of Reads  | Collect this achievement when you read one of these popular books from the past 10 years between Sept. 15 and Dec. 31. |
 | <img src="Media/Badges/spellbound/spellbound.png" alt="Spellbound" width="200"/> |  Spellbound  | Collect this achievement when you read one of these witchy books between Sept. 15 and Dec. 31. |
-| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> Read at your own risk. <br><em>Reveals on October 1, 2026</em> |
-| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> No jump scares here. <br><em>Reveals on October 1, 2026</em> |
+| <img src="Media/Badges/empty/empty.png" alt="Spine Tinglers" width="200"/> |  Spine Tinglers  | Collect this achievement when you read one of these spooky-season horror books between Oct. 1 and Dec. 31. |
+| <img src="Media/Badges/empty/empty.png" alt="Heart-Warmers" width="200"/> |  Heart-Warmers  | Collect this achievement when you read one of these cozy, feel-good books between Oct. 1 and Dec. 31. |
 | <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> Celebrating heritage! <br><em>Reveals on November 1, 2026</em> |
 | <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> And the winner is... <br><em>Reveals on November 10, 2026</em> |
 
@@ -113,7 +113,7 @@ Spring into new achievements to keep your reading year on track!
 |        <img src="Media/Badges/july-reader-2026/july-reader-2026.png" alt="July Reader" width="200"/>         |   July Reader    |                                   Read at least one book in the month of July                                   |
 |     <img src="Media/Badges/august-reader-2026/august-reader-2026.png" alt="August Reader" width="200"/>      |  August Reader   |                                  Read at least one book in the month of August                                  |
 | <img src="Media/Badges/september-reader-2026/september-reader-2026.png" alt="September Reader" width="200"/> | September Reader |                                Read at least one book in the month of September                                 |
-|    <img src="Media/Badges/empty/empty.png" alt="October Reader" width="200"/>    |  October Reader  |                                 Read at least one book in the month of October                                  |
+|    <img src="Media/Badges/october-reader-2026/october-reader-2026.png" alt="October Reader" width="200"/>    |  October Reader  |                                 Read at least one book in the month of October                                  |
 |  <img src="Media/Badges/empty/empty.png" alt="November Reader" width="200"/>   | November Reader  |                                 Read at least one book in the month of November                                 |
 |  <img src="Media/Badges/empty/empty.png" alt="December Reader" width="200"/>   | December Reader  |                                 Read at least one book in the month of December                                 |
 |   <img src="Media/Badges/empty/empty.png" alt="Grand Slam" width="200"/>   |    Grand Slam    |             Complete the set! Collect this achievement by finishing a book every month of the year.             |
