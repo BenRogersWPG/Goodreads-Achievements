@@ -23,8 +23,8 @@ Fall into new achievements and end your reading year on a high note.
 | <img src="Media/Badges/hispanic-heritage-2026/hispanic-heritage.png" alt="Hispanic Heritage" width="200"/> |  Hispanic Heritage  | Collect this achievement when you read one of these books for Hispanic Heritage Month between Sept. 15 and Dec. 31. |
 | <img src="Media/Badges/decade-of-reads/decade-of-reads.png" alt="Decade of Reads" width="200"/> |  Decade of Reads  | Collect this achievement when you read one of these popular books from the past 10 years between Sept. 15 and Dec. 31. |
 | <img src="Media/Badges/spellbound/spellbound.png" alt="Spellbound" width="200"/> |  Spellbound  | Collect this achievement when you read one of these witchy books between Sept. 15 and Dec. 31. |
-| <img src="Media/Badges/empty/empty.png" alt="Spine Tinglers" width="200"/> |  Spine Tinglers  | Collect this achievement when you read one of these spooky-season horror books between Oct. 1 and Dec. 31. |
-| <img src="Media/Badges/empty/empty.png" alt="Heart-Warmers" width="200"/> |  Heart-Warmers  | Collect this achievement when you read one of these cozy, feel-good books between Oct. 1 and Dec. 31. |
+| <img src="Media/Badges/spine-tinglers-2026/spine-tinglers-2026.png" alt="Spine Tinglers" width="200"/> |  Spine Tinglers  | Collect this achievement when you read one of these spooky-season horror books between Oct. 1 and Dec. 31. |
+| <img src="Media/Badges/heart-warmers-2026/heart-warmers-2026.png" alt="Heart-Warmers" width="200"/> |  Heart-Warmers  | Collect this achievement when you read one of these cozy, feel-good books between Oct. 1 and Dec. 31. |
 | <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> Celebrating heritage! <br><em>Reveals on November 1, 2026</em> |
 | <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> And the winner is... <br><em>Reveals on November 10, 2026</em> |
 
