@@ -67,13 +67,13 @@ Fall into new achievements and end your reading year on a high note.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Spine Tinglers bookmark badge" title="Spine Tinglers" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/spine-tinglers-2026/spine-tinglers-2026.webp" alt="Spine Tinglers bookmark badge" title="Spine Tinglers" width="200" loading="lazy"></td>
   <td>Spine Tinglers</td>
   <td>Collect this achievement when you read one of these spooky-season horror books between Oct. 1 and Dec. 31.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/empty/empty.webp" alt="Heart-Warmers bookmark badge" title="Heart-Warmers" width="200" loading="lazy"></td>
+  <td><img src="Media/Badges/heart-warmers-2026/heart-warmers-2026.webp" alt="Heart-Warmers bookmark badge" title="Heart-Warmers" width="200" loading="lazy"></td>
   <td>Heart-Warmers</td>
   <td>Collect this achievement when you read one of these cozy, feel-good books between Oct. 1 and Dec. 31.
 </td>
