@@ -1,4 +1,4 @@
-# Accessibility
+# Accessibility :accessibility:
 
 This project exists to help readers explore Goodreads achievements, challenge badges, and reading goals in a clear and useful way. Accessibility matters here because the content is meant to be helpful to everyone, whether someone is browsing on a laptop, a phone, with a keyboard, or with an assistive technology such as a screen reader. We want people to be able to understand the achievement list, find challenge details, and contribute to the project without hitting unnecessary barriers.
 
