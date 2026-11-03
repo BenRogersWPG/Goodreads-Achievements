@@ -79,10 +79,9 @@ Fall into new achievements and end your reading year on a high note.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> Celebrating heritage!
-<br><em>Reveals on November 1, 2026</em>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Native Heritage bookmark badge" title="Native Heritage" width="200" loading="lazy"></td>
+  <td>Native Heritage</td>
+  <td>Collect this achievement when you read one of these books for Native American Heritage Month between Nov. 1 and Dec. 31.
 </td>
 </tr>
 <tr>
