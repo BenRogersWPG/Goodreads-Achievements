@@ -26,7 +26,7 @@ Fall into new achievements and end your reading year on a high note.
 | <img src="Media/Badges/spine-tinglers-2026/spine-tinglers-2026.png" alt="Spine Tinglers" width="200"/> |  Spine Tinglers  | Collect this achievement when you read one of these spooky-season horror books between Oct. 1 and Dec. 31. |
 | <img src="Media/Badges/heart-warmers-2026/heart-warmers-2026.png" alt="Heart-Warmers" width="200"/> |  Heart-Warmers  | Collect this achievement when you read one of these cozy, feel-good books between Oct. 1 and Dec. 31. |
 | <img src="Media/Badges/empty/empty.png" alt="Native Heritage" width="200"/> |  Native Heritage  | Collect this achievement when you read one of these books for Native American Heritage Month between Nov. 1 and Dec. 31. |
-| <img src="Media/Badges/mystery/mystery.png" alt="Mystery" width="200"/> |  Mystery  | <strong>Hint:</strong> And the winner is... <br><em>Reveals on November 10, 2026</em> |
+| <img src="Media/Badges/empty/empty.png" alt="Choice Awards" width="200"/> |  Choice Awards  | Come back between Dec. 3 and Dec. 31 to earn this achievement by reading any of the Goodreads Choice Awards nominees. In the meantime, vote for your favorites! |
 
 
 
