@@ -85,10 +85,9 @@ Fall into new achievements and end your reading year on a high note.
 </td>
 </tr>
 <tr>
-  <td><img src="Media/Badges/mystery/mystery.webp" alt="Mystery bookmark badge" title="Mystery" width="200" loading="lazy"></td>
-  <td>Mystery</td>
-  <td><strong>Hint:</strong> And the winner is...
-<br><em>Reveals on November 10, 2026</em>
+  <td><img src="Media/Badges/empty/empty.webp" alt="Choice Awards bookmark badge" title="Choice Awards" width="200" loading="lazy"></td>
+  <td>Choice Awards</td>
+  <td>Come back between Dec. 3 and Dec. 31 to earn this achievement by reading any of the Goodreads Choice Awards nominees. In the meantime, vote for your favorites!
 </td>
 </tr>
 </table>
