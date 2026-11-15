@@ -93,7 +93,6 @@ Fall into new achievements and end your reading year on a high note.
 </table>
 </div>
 
-
 <h3>Summer Challenge (11)</h3>
 <strong>July 1 - September 14, 2026</strong>
 
